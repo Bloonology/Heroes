@@ -1,28 +1,28 @@
 level 1
 38r
-*fire*- 1d, 3p, 0.5s, fire
+*fire*- 1d, 4p, 0.5s, fire
  
 XP Curve: 1
 footprint radius: 7 (medium)
  
 **cost**
-615 - easy
-725 - medium
-785 - hard
-870 - impoppable
+765 - easy
+900 - medium
+970 - hard
+1080 - impoppable
 
 level 2
 38r
-*fire*- 1d, 4p, 0.5s, fire
+*fire*- 1d, 5p, 0.5s, fire
  
 __Changes from Previous Level__
 *fire* gets +1p
 
 level 3
 38r
-*fire*- 1d, 4p, 0.5s, fire
+*fire*- 1d, 5p, 0.5s, fire
 **Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
- ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
  ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 40p, 0.2s, fire
  ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 12s
  
@@ -31,12 +31,12 @@ __Changes from Previous Level__
 
 level 4
 38r
-*fire*- 1d, 4p, 0.5s, fire
-*heatwave*- 3d, ∞p, fire, triggers every 40 shots
+*fire*- 1d, 5p, 0.5s, fire
+*heatwave*- 3d, ∞p, fire, triggers every 32 shots
  ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
  ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1p, lead for 8s
 **Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
- ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
  ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 40p, 0.2s, fire
  ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 12s
  
@@ -45,351 +45,321 @@ __Changes from Previous Level__
 
 level 5
 38r
-*fire*- 1d, 6p, 0.5s, fire
-*heatwave*- 3d, ∞p, fire, triggers every 40 shots
+*fire*- 1d, 7p, 0.5s, fire
+*heatwave*- 3d, ∞p, fire, triggers every 32 shots
  ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
  ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1p, lead for 8s
 **Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
- ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
  ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 40p, 0.2s, fire
  ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 12s
-*pyrotechnics-buff*- all 4+xx tacks, x3+x wizards, and xx3+ mortars get 90%s and +10% projectile radius
   
 __Changes from Previous Level__
-gets *pyrotechnics-buff*
 *fire* gets +2p
 
 level 6
 38r
-*fire*- 1d, 6p, 0.5s, fire
+*fire*- 1d, 7p, 0.5s, fire
  ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
-*heatwave*- 3d, ∞p, fire, triggers every 40 shots
+*heatwave*- 3d, ∞p, fire, triggers every 32 shots
  ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
  ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1p, lead for 8s
 **Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
- ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
  ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 40p, 0.2s, fire
  ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 12s
-*pyrotechnics-buff*- all 4+xx tacks, x3+x wizards, and xx3+ mortars get 90%s and +10% projectile radius
  
 __Changes from Previous Level__
 *fire* applies *burn* status
 
 level 7
 38r
-*fire*- 1d, 6p, 0.5s, fire
+*fire*- 1d, 7p, 0.5s, fire
  ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
-*heatwave*- 3d, ∞p, fire, triggers every 40 shots
+*heatwave*- 3d, ∞p, fire, triggers every 32 shots
  ‎ ‎ ‎ ‎ ‎ - 43r
  ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
  ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1p, lead for 8s
 **Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
- ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
- ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 40p, 0.1s, fire
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 40p, 0.2s, fire
  ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 12s
-*pyrotechnics-buff*- all 4+xx tacks, x3+x wizards, and xx3+ mortars get 90%s and +10% projectile radius
  
 __Changes from Previous Level__
 *heatwave* gets +5r
-**Cocktail of Fire** ability *fire-wall* gets 50%s
 
 level 8
 38r
-*fire*- 1d, 6p, 0.5s, 2j, fire
+*fire*- 1d, 7p, 0.5s, 2j, fire
  ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
-*heatwave*- 3d, ∞p, fire, triggers every 40 shots
+*heatwave*- 3d, ∞p, fire, triggers every 32 shots
  ‎ ‎ ‎ ‎ ‎ - 43r
  ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
  ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1p, lead for 8s
 **Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
- ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
- ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 40p, 0.1s, fire
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 40p, 0.2s, fire
  ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 12s
-*pyrotechnics-buff*- all 4+xx tacks, x3+x wizards, and xx3+ mortars get 90%s and +10% projectile radius
  
 __Changes from Previous Level__
 *fire* gets +1j
 
 level 9
 38r
-*fire*- 2d, 6p, 0.5s, 2j, fire
+*fire*- 2d, 7p, 0.5s, 2j, fire
  ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
-*heatwave*- 3d, ∞p, fire, triggers every 40 shots
+*heatwave*- 3d, ∞p, fire, triggers every 32 shots
  ‎ ‎ ‎ ‎ ‎ - 43r
  ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
  ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1p, lead for 8s
 **Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
- ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
- ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 40p, 0.1s, fire
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 40p, 0.2s, fire
  ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 12s
-*pyrotechnics-buff*- all 4+xx tacks, x3+x wizards, and xx3+ mortars get 90%s and +10% projectile radius
  
 __Changes from Previous Level__
 *fire* gets +1d
 
 level 10
 38r
-*fire*- 2d, 6p, 0.5s, 2j, fire
+*fire*- 2d, 7p, 0.5s, 2j, fire
  ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
-*heatwave*- 3d, ∞p, fire, triggers every 40 shots
+*heatwave*- 3d, ∞p, fire, triggers every 32 shots
  ‎ ‎ ‎ ‎ ‎ - 43r
  ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
  ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1p, lead for 8s
 **Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
- ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
- ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 40p, 0.1s, fire
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 40p, 0.2s, fire
  ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 12s
-**Firestorm** ability: 60s cooldown, 5d, +15md (20), ∞p, fire to everything on screen
- ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
- ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.483s, 10md/0.983s, 8s duration
- ‎ ‎ ‎ ‎ ‎ - activates a global heat it up buff
-*pyrotechnics-buff*- all 4+xx tacks, x3+x wizards, and xx3+ mortars get 90%s and +10% projectile radius
+**Firestorm** ability: 60s cooldown (battle ready), 2d, ∞p, fire to everything on screen
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.5s, 15md/1s, 8s duration
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers get +1d, +1p, lead for 8s
  
 __Changes from Previous Level__
 **Firestorm** ability added
 
 level 11
 41r
-*fire*- 2d, 6p, 0.5s, 2j, fire
+*fire*- 2d, 7p, 0.5s, 2j, fire
  ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
-*heatwave*- 3d, ∞p, fire, triggers every 40 shots
+*heatwave*- 3d, ∞p, fire, triggers every 32 shots
  ‎ ‎ ‎ ‎ ‎ - 46r
  ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
  ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1p, lead for 8s
 **Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
- ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
- ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 40p, 0.1s, fire
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 40p, 0.2s, fire
  ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 12s
-**Firestorm** ability: 60s cooldown, 5d, +15md (20), ∞p, fire to everything on screen
- ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
- ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.483s, 10md/0.983s, 8s duration
- ‎ ‎ ‎ ‎ ‎ - activates a global heat it up buff
-*pyrotechnics-buff*- all 4+xx tacks, x3+x wizards, and xx3+ mortars get 90%s and +10% projectile radius
+**Firestorm** ability: 60s cooldown (battle ready), 2d, ∞p, fire to everything on screen
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.5s, 15md/1s, 8s duration
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers get +1d, +1p, lead for 8s
  
 __Changes from Previous Level__
 +3r
 
 level 12
 41r
-*fire*- 2d, 6p, 0.4s, 2j, fire
+*fire*- 2d, 7p, 0.4s, 2j, fire
  ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
-*heatwave*- 3d, ∞p, fire, triggers every 48 shots
+*heatwave*- 3d, ∞p, fire, triggers every 34 shots
  ‎ ‎ ‎ ‎ ‎ - 46r
  ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
  ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1p, lead for 8s
 **Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
- ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
- ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
- ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 40p, 0.1s, fire
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 40p, 0.2s, fire
  ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 12s
-**Firestorm** ability: 60s cooldown, 5d, +15md (20), ∞p, fire to everything on screen
- ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.483s, 10md/0.983s, 8s duration
- ‎ ‎ ‎ ‎ ‎ - activates a global heat it up buff
-*pyrotechnics-buff*- all 4+xx tacks, x3+x wizards, and xx3+ mortars get 90%s and +10% projectile radius
+**Firestorm** ability: 60s cooldown (battle ready), 2d, ∞p, fire to everything on screen
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.5s, 15md/1s, 8s duration
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers get +1d, +1p, lead for 8s
  
 __Changes from Previous Level__
 *fire* gets 80%s
-*heatwave* occurs every 40 -> 48 shots
+*heatwave* occurs every 32 -> 34 shots
 
 level 13
 41r
-*fire*- 2d, 9p, 0.4s, 2j, fire
+*fire*- 2d, 10p, 0.4s, 2j, fire
  ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
-*heatwave*- 3d, ∞p, fire, triggers every 48 shots
+*heatwave*- 3d, ∞p, fire, triggers every 34 shots
  ‎ ‎ ‎ ‎ ‎ - 46r
  ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
  ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1p, lead for 8s
 **Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
- ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
- ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 40p, 0.1s, fire
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, 40p, 0.2s, fire
  ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 12s
-**Firestorm** ability: 60s cooldown, 5d, +15md (20), ∞p, fire to everything on screen
- ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
- ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.483s, 10md/0.983s, 8s duration
- ‎ ‎ ‎ ‎ ‎ - activates a global heat it up buff
-*pyrotechnics-buff*- all 4+xx tacks, x3+x wizards, and xx3+ mortars get 90%s and +10% projectile radius
+**Firestorm** ability: 60s cooldown (battle ready), 2d, ∞p, fire to everything on screen
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.5s, 15md/1s, 8s duration
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers get +1d, +1p, lead for 8s
  
 __Changes from Previous Level__
 *fire* gets +3p
 
 level 14
 41r
-*fire*- 2d, 9p, 0.4s, 2j, fire
+*fire*- 2d, 10p, 0.4s, 2j, fire
  ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
-*heatwave*- 3d, ∞p, fire, triggers every 48 shots
+*heatwave*- 3d, ∞p, fire, triggers every 34 shots
  ‎ ‎ ‎ ‎ ‎ - 46r
  ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
  ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1p, lead for 8s
 **Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
- ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
- ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 2d, 40p, 0.1s, fire
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 2d, 40p, 0.2s, fire
  ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 12s
  ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 5md/1s, 10s duration
-**Firestorm** ability: 60s cooldown, 5d, +15md (20), ∞p, fire to everything on screen
- ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
- ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.483s, 10md/0.983s, 8s duration
- ‎ ‎ ‎ ‎ ‎ - activates a global heat it up buff
-*pyrotechnics-buff*- all 4+xx tacks, x3+x wizards, and xx3+ mortars get 90%s and +10% projectile radius
+**Firestorm** ability: 60s cooldown (battle ready), 2d, ∞p, fire to everything on screen
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.5s, 15md/1s, 8s duration
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers get +1d, +1p, lead for 8s
  
 __Changes from Previous Level__
-*fire-wall* gets +1d and can apply *burn* status
+*fire-wall* gets +1d, can apply *burn* status
 
 level 15
 41r
-*fire*- 2d, 9p, 0.3s, 2j, fire
+*fire*- 2d, 10p, 0.3s, 2j, fire
  ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
-*heatwave*- 3d, ∞p, fire, triggers every 64 shots
+*heatwave*- 3d, ∞p, fire, triggers every 40 shots
  ‎ ‎ ‎ ‎ ‎ - 46r
  ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
  ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1p, lead for 8s
 **Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
- ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
- ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 2d, 40p, 0.1s, fire
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 2d, 40p, 0.2s, fire
  ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 12s
  ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 5md/1s, 10s duration
-**Firestorm** ability: 60s cooldown, 5d, +15md (20), ∞p, fire to everything on screen
- ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
- ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.483s, 10md/0.983s, 8s duration
- ‎ ‎ ‎ ‎ ‎ - activates a global heat it up buff
-*pyrotechnics-buff*- all 4+xx tacks, x3+x wizards, and xx3+ mortars get 90%s and +10% projectile radius
+**Firestorm** ability: 60s cooldown (battle ready), 2d, ∞p, fire to everything on screen
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.5s, 15md/1s, 8s duration
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers get +1d, +1p, lead for 8s
  
 __Changes from Previous Level__
 *fire* gets 75%s
-*heatwave* occurs every 48 -> 64 shots
+*heatwave* occurs every 34 -> 40 shots
 
 level 16
 41r
-*fire*- 2d, 9p, 0.3s, 2j, normal
+*fire*- 2d, 10p, 0.3s, 2j, normal
  ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
-*heatwave*- 3d, ∞p, normal, triggers every 64 shots
+*heatwave*- 3d, ∞p, normal, triggers every 40 shots
  ‎ ‎ ‎ ‎ ‎ - 46r
  ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
  ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1p, lead for 8s
 **Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
- ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
- ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 2d, 40p, 0.1s, normal
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 2d, 40p, 0.2s, normal
  ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 12s
  ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 5md/1s, 10s duration
-**Firestorm** ability: 60s cooldown, 5d, +15md (20), ∞p, normal to everything on screen
- ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
- ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.483s, 10md/0.983s, 10.4s duration
- ‎ ‎ ‎ ‎ ‎ - activates a global heat it up buff
-*pyrotechnics-buff*- all 4+xx tacks, x3+x wizards, and xx3+ mortars get 90%s and +10% projectile radius
+**Firestorm** ability: 60s cooldown (battle ready), 2d, ∞p, fire to everything on screen
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.5s, 15md/1s, 10s duration
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers get +1d, +1p, lead for 8s
  
 __Changes from Previous Level__
 all attacks get normal type
-**Firestorm** *burn* status duration 8s -> 10.4s
+**Firestorm** *burn* status duration 8s -> 10s
 
 level 17
 41r
-*fire*- 2d, 9p, 0.3s, 2j, normal
+*fire*- 2d, 10p, 0.3s, 2j, normal
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
+*heatwave*- 3d, ∞p, normal, triggers every 40 shots
+ ‎ ‎ ‎ ‎ ‎ - 46r
+ ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1p, +1d, +1ld, lead for 8s
+**Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 2d, 40p, 0.2s, normal
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 12s
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 5md/1s, 10s duration
+**Firestorm** ability: 60s cooldown (battle ready), 2d, ∞p, fire to everything on screen
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.5s, 15md/1s, 10s duration
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers get +1d, +1p, lead for 8s
+ 
+__Changes from Previous Level__
+*heatwave* gives +1d, +1ld to affected tower
+
+level 18
+41r
+*fire*- 2d, 10p, 0.15s, 2j, normal
  ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
 *heatwave*- 3d, ∞p, normal, triggers every 64 shots
  ‎ ‎ ‎ ‎ ‎ - 46r
  ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
- ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1p, +1d, +2ld, lead for 8s
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1p, +1d, +1ld, lead for 8s
 **Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
- ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
- ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 2d, 40p, 0.1s, normal
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 2d, 40p, 0.2s, normal
  ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 12s
  ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 5md/1s, 10s duration
-**Firestorm** ability: 60s cooldown, 5d, +15md (20), ∞p, normal to everything on screen
- ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
- ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.483s, 10md/0.983s, 10.4s duration
- ‎ ‎ ‎ ‎ ‎ - activates a global heat it up buff
-*pyrotechnics-buff*- all 4+xx tacks, x3+x wizards, and xx3+ mortars get 90%s and +10% projectile radius
- 
-__Changes from Previous Level__
-*heatwave* gives +1d, +2ld to affected tower
-
-level 18
-41r
-*fire*- 2d, 9p, 0.15s, 2j, normal
- ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
-*heatwave*- 3d, ∞p, normal, triggers every 70 shots
- ‎ ‎ ‎ ‎ ‎ - 46r
- ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
- ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1p, +1d, +2ld, lead for 8s
-**Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
- ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
- ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 2d, 40p, 0.1s, normal
- ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 12s
- ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 5md/1s, 10s duration
-**Firestorm** ability: 60s cooldown, 5d, +15md (20), ∞p, normal to everything on screen
- ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
- ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.483s, 10md/0.983s, 10.4s duration
- ‎ ‎ ‎ ‎ ‎ - activates a global heat it up buff
-*pyrotechnics-buff*- all 4+xx tacks, x3+x wizards, and xx3+ mortars get 80%s and +20% projectile radius
+**Firestorm** ability: 60s cooldown (battle ready), 2d, ∞p, fire to everything on screen
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.5s, 15md/1s, 10s duration
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers get +1d, +1p, lead for 8s
  
 __Changes from Previous Level__
 *fire* gets 50%s
-*heatwave* occurs every 64 -> 70 shots
-*pyrotechnics-buff* gets 90%s -> 80%s, +10% radius -> +20% radius
+*heatwave* occurs every 40 -> 64 shots
 
 level 19
 41r
-*fire*- 2d, 9p, 0.15s, 3j, normal
+*fire*- 2d, 10p, 0.15s, 3j, normal
  ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
-*heatwave*- 3d, ∞p, normal, triggers every 70 shots
+*heatwave*- 3d, ∞p, normal, triggers every 64 shots
  ‎ ‎ ‎ ‎ ‎ - 46r
  ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
- ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1p, +1d, +2ld, lead for 8s
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1p, +1d, +1ld, lead for 8s
 **Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
- ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
- ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 2d, 40p, 0.1s, normal
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 2d, 40p, 0.2s, normal
  ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 12s
  ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 5md/1s, 10s duration
-**Firestorm** ability: 60s cooldown, 5d, +15md (20), ∞p, normal to everything on screen
- ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
- ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.483s, 10md/0.983s, 10.4s duration
- ‎ ‎ ‎ ‎ ‎ - activates a global heat it up buff
-*pyrotechnics-buff*- all 4+xx tacks, x3+x wizards, and xx3+ mortars get 80%s and +20% projectile radius
+**Firestorm** ability: 60s cooldown (battle ready), 2d, ∞p, fire to everything on screen
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.5s, 15md/1s, 10s duration
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers get +1d, +1p, lead for 8s
  
 __Changes from Previous Level__
 *fire* gets +1j
 
 level 20
 41r
-*fire*- 2d, 9p, 0.15s, 3j, normal
+*fire*- 2d, 10p, 0.15s, 3j, normal
  ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
-*heatwave*- 3d, ∞p, normal, triggers every 70 shots
+*heatwave*- 3d, ∞p, normal, triggers every 64 shots
  ‎ ‎ ‎ ‎ ‎ - 46r
  ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
- ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1p, +1d, +2ld, lead for 8s
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1p, +1d, +1ld, lead for 8s
 **Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
- ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
- ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 2d, 40p, 0.1s, normal
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 2d, 40p, 0.2s, normal
  ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 12s
  ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 5md/1s, 10s duration
-**Firestorm** ability: 60s cooldown, 10d, +40md (50), ∞p, normal to everything on screen
- ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
- ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 2d/0.483s, 25md/0.983s, 10.4s duration
- ‎ ‎ ‎ ‎ ‎ - activates a global heat it up buff
-*pyrotechnics-buff*- all 4+xx tacks, x3+x wizards, and xx3+ mortars get 80%s and +20% projectile radius
+**Firestorm** ability: 60s cooldown (battle ready), 5d, ∞p, fire to everything on screen
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 2d/0.5s, 50md/1s, 10s duration
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers get +1d, +1p, lead for 8s
  
 __Changes from Previous Level__
-**Firestorm** ability gets +5d, +25md (40)
-**Firestorm** *burn* deals 1d/0.5s, 10md/1s -> 2d/0.5s, 15md/1s
+**Firestorm** ability gets +3d (5)
+**Firestorm** *burn* deals 1d/0.5s, 15md/1s -> 2d/0.5s, 50md/1s
 
 all levels
-__**Cost**: $725 (med), $790 (hard)  |  **XP Curve**: 1.0x__
+__**Cost**: $900 (med), $970 (hard)  |  **XP Curve**: 1.0x__
 LVL 1 - has *fire* attack
-LVL 2 - *fire* gets +1p (4)
+LVL 2 - *fire* gets +1p (5)
 LVL 3 - **Cocktail of Fire** ability added
 LVL 4 - *heatwave* attack added
-LVL 5 - *fire* gets +2p (6)  ♦️  gets *pyrotechnics-buff* [90%s and +10% radius to 4+xx tacks, x3+x wizards, xx3+ mortars]
+LVL 5 - *fire* gets +2p (7)
 LVL 6 - *fire* applies *burn* status
-LVL 7 - *heatwave* gets +5r (43)  ♦️  Cocktail of Fire ability *fire-wall* gets 50%s (0.1s)
+LVL 7 - *heatwave* gets +5r (43)
 LVL 8 - *fire* gets +1j (2)
 LVL 9 - *fire* gets +1d (2)
 LVL 10 - **Firestorm** ability added
 LVL 11 - +3r (41)
-LVL 12 - *fire* gets 80%s (0.4s)  ♦️  *heatwave* occurs every 40 -> 48 shots
-LVL 13 - *fire* gets +3p (9)
+LVL 12 - *fire* gets 80%s (0.4s)  ♦️  *heatwave* occurs every 32 -> 34 shots
+LVL 13 - *fire* gets +3p (10)
 LVL 14 - *fire-wall* gets +1d (2) and can apply *burn* status
-LVL 15 - *fire* gets 75%s (0.3s)  ♦️  *heatwave* occurs every 48 -> 64 shots
-LVL 16 - all attacks get normal type  ♦️  Firestorm *burn* status duration 8s -> 10.4s
-LVL 17 - *heatwave* gives +1d, +2ld to affected tower
-LVL 18 - *fire* gets 50%s (0.15s)  ♦️  *heatwave* occurs every 64 -> 70 shots  ♦️  *pyrotechnics-buff* gets 90%s -> 80%s, +10% radius -> +20% radius
+LVL 15 - *fire* gets 75%s (0.3s)  ♦️  *heatwave* occurs every 34 -> 40 shots
+LVL 16 - all attacks get normal type  ♦️  Firestorm *burn* status duration 8s -> 10s
+LVL 17 - *heatwave* gives +1d, +1ld to affected tower
+LVL 18 - *fire* gets 50%s (0.15s)  ♦️  *heatwave* occurs every 40 -> 64 shots
 LVL 19 - *fire* gets +1j (3)
-LVL 20 - Firestorm ability gets +5d (10), +25md (40)  ♦️  Firestorm *burn* deals 1d/0.5s, 10md/1s -> 2d/0.5s, 15md/1s
+LVL 20 - Firestorm ability gets +3d (5)  ♦️  Firestorm *burn* deals 1d/0.5s, 15md/1s -> 2d/0.5s, 50md/1s
