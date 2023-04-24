@@ -1,0 +1,365 @@
+level 1
+38r
+*fire*- 1d, 4p, 0.5s, fire
+ 
+XP Curve: 1
+footprint radius: 7 (medium)
+ 
+**cost**
+765 - easy
+900 - medium
+970 - hard
+1080 - impoppable
+ 
+level 2
+38r
+*fire*- 1d, +1ld\*, +1 frozen damage\*, 5p, 0.5s, fire
+ 
+__Changes from Previous Level__
+*fire* gets +1p
+ 
+level 3
+38r
+*fire*- 1d, +1ld\*, +1 frozen damage\*, 5p, 0.5s, fire
+**Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, +1ld\*, +1 frozen damage\*, 60p\*, 0.15s\*, fire
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 8s\*
+ 
+__Changes from Previous Level__
+**Cocktail of Fire** ability added
+ 
+level 4
+38r
+*fire*- 1d, +1ld\*, +1 frozen damage\*, 5p, 0.5s, fire
+*heatwave*- 3d, ∞p, fire, triggers every 40\* shots
+ ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1ld\*, +1 frozen damage\*, +1p, lead for 8s
+**Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, +1ld\*, +1 frozen damage\*, 60p\*, 0.15s\*, fire
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 8s\*
+ 
+__Changes from Previous Level__
+*heatwave* attack added
+ 
+level 5
+38r
+*fire*- 1d, +1ld\*, +1 frozen damage\*, 7p, 0.5s, fire
+*heatwave*- 3d, ∞p, fire, triggers every 40\* shots
+ ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1ld\*, +1 frozen damage\*, +1p, lead for 8s
+**Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, +1ld\*, +1 frozen damage\*, 60p\*, 0.15s\*, fire
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 8s\*
+ 
+__Changes from Previous Level__
+*fire* gets +2p
+ 
+level 6
+38r
+*fire*- 1d, +1ld\*, +1 frozen damage\*, 7p, 0.5s, fire
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
+*heatwave*- 3d, ∞p, fire, triggers every 40\* shots
+ ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1ld\*, +1 frozen damage\*, +1p, lead for 8s
+**Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, +1ld\*, +1 frozen damage\*, 60p\*, 0.15s\*, fire
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 8s\*
+ 
+__Changes from Previous Level__
+*fire* applies *burn* status
+ 
+level 7
+38r
+*fire*- 1d, +1ld\*, +1 frozen damage\*, 7p, 0.5s, fire
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
+*heatwave*- 3d, ∞p, fire, triggers every 40\* shots
+ ‎ ‎ ‎ ‎ ‎ - 43r
+ ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1ld\*, +1 frozen damage\*, +1p, lead for 8s
+**Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, +1ld\*, +1 frozen damage\*, 60p\*, 0.15s\*, fire
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 8s\*
+ 
+__Changes from Previous Level__
+*heatwave* gets +5r
+ 
+level 8
+38r
+*fire*- 1d, +1ld\*, +1 frozen damage\*, 7p, 0.5s, 2j, fire
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
+*heatwave*- 3d, ∞p, fire, triggers every 40\* shots
+ ‎ ‎ ‎ ‎ ‎ - 43r
+ ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1ld\*, +1 frozen damage\*, +1p, lead for 8s
+**Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, +1ld\*, +1 frozen damage\*, 60p\*, 0.15s\*, fire
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 8s\*
+ 
+__Changes from Previous Level__
+*fire* gets +1j
+ 
+level 9
+38r
+*fire*- 2d, +1ld\*, +1 frozen damage\*, 7p, 0.5s, 2j, fire
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
+*heatwave*- 3d, ∞p, fire, triggers every 40\* shots
+ ‎ ‎ ‎ ‎ ‎ - 43r
+ ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1ld\*, +1 frozen damage\*, +1p, lead for 8s
+**Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, +1ld\*, +1 frozen damage\*, 60p\*, 0.15s\*, fire
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 8s\*
+ 
+__Changes from Previous Level__
+*fire* gets +1d
+ 
+level 10
+38r
+*fire*- 2d, +1ld\*, +1 frozen damage\*, 7p, 0.5s, 2j, fire
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
+*heatwave*- 3d, ∞p, fire, triggers every 40\* shots
+ ‎ ‎ ‎ ‎ ‎ - 43r
+ ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1ld\*, +1 frozen damage\*, +1p, lead for 8s
+**Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, +1ld\*, +1 frozen damage\*, 60p\*, 0.15s\*, fire
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 8s\*
+**Firestorm** ability: 60s cooldown (battle ready), 2d, ∞p, fire to everything on screen
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.25s\*, 15md/0.5s\*, 3.5s\* duration
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers get +1d, +1ld\*, +1 frozen damage\*, +1p, lead for 8s
+ 
+__Changes from Previous Level__
+**Firestorm** ability added\*
+ 
+level 11
+41r
+*fire*- 2d, +1ld\*, +1 frozen damage\*, 7p, 0.5s, 2j, fire
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
+*heatwave*- 3d, ∞p, fire, triggers every 40\* shots
+ ‎ ‎ ‎ ‎ ‎ - 46r
+ ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1ld\*, +1 frozen damage\*, +1p, lead for 8s
+**Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, +1ld\*, +1 frozen damage\*, 60p\*, 0.15s\*, fire
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 8s\*
+**Firestorm** ability: 60s cooldown (battle ready), 2d, ∞p, fire to everything on screen
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.25s\*, 15md/0.5s\*, 3.5s\* duration
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers get +1d, +1ld\*, +1 frozen damage\*, +1p, lead for 8s
+ 
+__Changes from Previous Level__
++3r
+ 
+level 12
+41r
+*fire*- 2d, +1ld\*, +1 frozen damage\*, 7p, 0.4s, 2j, fire
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
+*heatwave*- 3d, ∞p, fire, triggers every 48\* shots
+ ‎ ‎ ‎ ‎ ‎ - 46r
+ ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1ld\*, +1 frozen damage\*, +1p, lead for 8s
+**Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, +1ld\*, +1 frozen damage\*, 60p\*, 0.15s\*, fire
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 8s\*
+**Firestorm** ability: 60s cooldown (battle ready), 2d, ∞p, fire to everything on screen
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.25s\*, 15md/0.5s\*, 3.5s\* duration
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers get +1d, +1ld\*, +1 frozen damage\*, +1p, lead for 8s
+ 
+__Changes from Previous Level__
+*fire* gets 80%s
+*heatwave* occurs every 40\* -> 48\* shots
+ 
+level 13
+41r
+*fire*- 2d, +1ld\*, +1 frozen damage\*, 10p, 0.4s, 2j, fire
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
+*heatwave*- 3d, ∞p, fire, triggers every 48\* shots
+ ‎ ‎ ‎ ‎ ‎ - 46r
+ ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1ld\*, +1 frozen damage\*, +1p, lead for 8s
+**Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 1d, +1ld\*, +1 frozen damage\*, 60p\*, 0.15s\*, fire
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 8s\*
+**Firestorm** ability: 60s cooldown (battle ready), 2d, ∞p, fire to everything on screen
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.25s\*, 15md/0.5s\*, 3.5s\* duration
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers get +1d, +1ld\*, +1 frozen damage\*, +1p, lead for 8s
+ 
+__Changes from Previous Level__
+*fire* gets +3p
+ 
+level 14
+41r
+*fire*- 2d, +1ld\*, +1 frozen damage\*, 10p, 0.4s, 2j, fire
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
+*heatwave*- 3d, ∞p, fire, triggers every 48\* shots
+ ‎ ‎ ‎ ‎ ‎ - 46r
+ ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1ld\*, +1 frozen damage\*, +1p, lead for 8s
+**Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 2d, +1ld\*, +1 frozen damage\*, 60p\*, 0.15s\*, fire
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 8s\*
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 5md/0.5s\*, 5s duration
+**Firestorm** ability: 60s cooldown (battle ready), 2d, ∞p, fire to everything on screen
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.25s\*, 15md/0.5s\*, 3.5s\* duration
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers get +1d, +1ld\*, +1 frozen damage\*, +1p, lead for 8s
+ 
+__Changes from Previous Level__
+*fire-wall* gets +1d and can apply *burn*\* status
+ 
+level 15
+41r
+*fire*- 2d, +1ld\*, +1 frozen damage\*, 10p, 0.3s, 2j, fire
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
+*heatwave*- 3d, ∞p, fire, triggers every 64\* shots
+ ‎ ‎ ‎ ‎ ‎ - 46r
+ ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1ld\*, +1 frozen damage\*, +1p, lead for 8s
+**Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 2d, +1ld\*, +1 frozen damage\*, 60p\*, 0.15s\*, fire
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 8s\*
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 5md/0.5s\*, 5s duration
+**Firestorm** ability: 60s cooldown (battle ready), 2d, ∞p, fire to everything on screen
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.25s\*, 15md/0.5s\*, 3.5s\* duration
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers get +1d, +1ld\*, +1 frozen damage\*, +1p, lead for 8s
+ 
+__Changes from Previous Level__
+*fire* gets 75%s
+*heatwave* occurs every 48\* -> 64\* shots
+ 
+level 16
+41r
+*fire*- 2d, +1ld\*, +1 frozen damage\*, 10p, 0.3s, 2j, normal
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
+*heatwave*- 3d, ∞p, fire, triggers every 64\* shots
+ ‎ ‎ ‎ ‎ ‎ - 46r
+ ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1ld\*, +1 frozen damage\*, +1p, lead for 8s
+**Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 2d, +1ld\*, +1 frozen damage\*, 60p\*, 0.15s\*, fire
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 8s\*
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 5md/0.5s\*, 5s duration
+**Firestorm** ability: 60s cooldown (battle ready), 2d, ∞p, fire to everything on screen
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.25s\*, 15md/0.5s\*, 5s\* duration
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers get +1d, +1ld\*, +1 frozen damage\*, +1p, lead for 8s
+ 
+__Changes from Previous Level__
+all attacks get normal type
+**Firestorm** *burn* status duration 3.5s\* -> 5s\*
+ 
+level 17
+41r
+*fire*- 2d, +1ld\*, +1 frozen damage\*, 10p, 0.3s, 2j, normal
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
+*heatwave*- 3d, ∞p, fire, triggers every 64\* shots
+ ‎ ‎ ‎ ‎ ‎ - 46r
+ ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1d, +2ld\*, +2 frozen damage\*, +1p, lead for 8s
+**Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 2d, +1ld\*, +1 frozen damage\*, 60p\*, 0.15s\*, fire
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 8s\*
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 5md/0.5s\*, 5s duration
+**Firestorm** ability: 60s cooldown (battle ready), 2d, ∞p, fire to everything on screen
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.25s\*, 15md/0.5s\*, 5s\* duration
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers get +1d, +1ld\*, +1 frozen damage\*, +1p, lead for 8s
+ 
+__Changes from Previous Level__
+*heatwave* gives +1d, +1ld (+2\*), +1 frozen damage\* (+2\*) to affected tower
+ 
+level 18
+41r
+*fire*- 2d, +1ld\*, +1 frozen damage\*, 10p, 0.15s, 2j, normal
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
+*heatwave*- 3d, ∞p, fire, triggers every 70\* shots
+ ‎ ‎ ‎ ‎ ‎ - 46r
+ ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1d, +2ld\*, +2 frozen damage\*, +1p, lead for 8s
+**Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 2d, +1ld\*, +1 frozen damage\*, 60p\*, 0.15s\*, fire
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 8s\*
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 5md/0.5s\*, 5s duration
+**Firestorm** ability: 60s cooldown (battle ready), 2d, ∞p, fire to everything on screen
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.25s\*, 15md/0.5s\*, 5s\* duration
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers get +1d, +1ld\*, +1 frozen damage\*, +1p, lead for 8s
+ 
+__Changes from Previous Level__
+*fire* gets 50%s
+*heatwave* occurs every 64\* -> 70\* shots
+ 
+level 19
+41r
+*fire*- 2d, +1ld\*, +1 frozen damage\*, 10p, 0.15s, 3j, normal
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
+*heatwave*- 3d, ∞p, fire, triggers every 70\* shots
+ ‎ ‎ ‎ ‎ ‎ - 46r
+ ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1d, +2ld\*, +2 frozen damage\*, +1p, lead for 8s
+**Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 2d, +1ld\*, +1 frozen damage\*, 60p\*, 0.15s\*, fire
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 8s\*
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 5md/0.5s\*, 5s duration
+**Firestorm** ability: 60s cooldown (battle ready), 2d, ∞p, fire to everything on screen
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/0.25s\*, 15md/0.5s\*, 5s\* duration
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers get +1d, +1ld\*, +1 frozen damage\*, +1p, lead for 8s
+ 
+__Changes from Previous Level__
+*fire* gets +1j
+ 
+level 20
+41r
+*fire*- 2d, +1ld\*, +1 frozen damage\*, 10p, 0.15s, 3j, normal
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 1d/1.5s, 3s duration
+*heatwave*- 3d, ∞p, fire, triggers every 70\* shots
+ ‎ ‎ ‎ ‎ ‎ - 46r
+ ‎ ‎ ‎ ‎ ‎ - cannot activate more than once every 4.5s
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers in range get +1d, +2ld\*, +2 frozen damage\*, +1p, lead for 8s
+**Cocktail of Fire** ability: 30s cooldown, spawns *fire-wall*
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 7.5s
+ ‎ ‎ ‎ ‎ ‎ - *fire-wall*- 2d, +1ld\*, +1 frozen damage\*, 60p\*, 0.15s\*, fire
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - lasts 8s\*
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 5md/0.5s\*, 5s duration
+**Firestorm** ability: 60s cooldown (battle ready), 5d, ∞p, fire to everything on screen
+ ‎ ‎ ‎ ‎ ‎ - applies *burn* status- 2d/0.25s\*, 50md/0.5s\*, 5s\* duration
+ ‎ ‎ ‎ ‎ ‎ - grants buff- all towers get +1d, +1ld\*, +1 frozen damage\*, +1p, lead for 8s
+ 
+__Changes from Previous Level__
+**Firestorm** ability gets +3d (5)
+**Firestorm** *burn* deals 1d/0.25s\*, 15md/0.5s\* -> 2d/0.25s\*, 50md/0.5s\*
+ 
+all levels
+__**Cost**: $900 (med), $970 (hard)  |  **XP Curve**: 1.0x__
+LVL 1 - has *fire* attack
+LVL 2 - *fire* gets +1p (5)
+LVL 3 - **Cocktail of Fire** ability added\*
+LVL 4 - *heatwave* attack added\*
+LVL 5 - *fire* gets +2p (7)
+LVL 6 - *fire* applies *burn* status
+LVL 7 - *heatwave* gets +5r (43)
+LVL 8 - *fire* gets +1j (2)
+LVL 9 - *fire* gets +1d (2)
+LVL 10 - **Firestorm** ability added\*
+LVL 11 - +3r (41)
+LVL 12 - *fire* gets 80%s (0.4s)  ♦️  *heatwave* occurs every 40\* -> 48\* shots
+LVL 13 - *fire* gets +3p (10)
+LVL 14 - *fire-wall* gets +1d (2) and can apply *burn*\* status
+LVL 15 - *fire* gets 75%s (0.3s)  ♦️  *heatwave* occurs every 48\* -> 64\* shots
+LVL 16 - all attacks get normal type  ♦️  Firestorm *burn* status duration 3.5s\* -> 5s\*
+LVL 17 - *heatwave* gives +1d, +1ld (+2\*), +1 frozen damage\* (+2\*) to affected tower
+LVL 18 - *fire* gets 50%s (0.15s)  ♦️  *heatwave* occurs every 64\* -> 70\* shots
+LVL 19 - *fire* gets +1j (3)
+LVL 20 - Firestorm ability gets +3d (5)  ♦️  Firestorm *burn* deals 1d/0.25s\*, 15md/0.5s\* -> 2d/0.25s\*, 50md/0.5s\*
