@@ -1,0 +1,516 @@
+level 1
+50r
+*pistol*- 3d, 1p, 0.8s, sharp
+*mine*- 1d, 20p, 3.0s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - deals 1d, normal to main target
+‎ ‎ ‎ ‎ ‎ ‎ - deploys the *mine* in a random spot in brickell’s radius then seeks at a target
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of towers unless it is the only available spot
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of brickell
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - prefers spots closer to the track
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* has 0.4s activation delay
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* lasts 2 rounds or 120s
+ 
+XP Curve: 1.425
+footprint radius: 7 (medium)
+ 
+**cost**
+640 - easy
+750 - medium
+810 - hard
+900 - impoppable
+
+level 2
+50r
+*pistol*- 3d, 1p, 0.7s, sharp
+*mine*- 1d, 20p, 2.8s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - deals 1d, normal to main target
+‎ ‎ ‎ ‎ ‎ ‎ - deploys the *mine* in a random spot in brickell’s radius then seeks at a target
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of towers unless it is the only available spot
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of brickell
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - prefers spots closer to the track
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* has 0.4s activation delay
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* lasts 2 rounds or 120s
+ 
+__Changes from Previous Level__
+*pistol* gets 87.5%s
+*mine* gets 93.33%s
+
+level 3
+50r
+*pistol*- 3d, 1p, 0.7s, sharp
+*mine*- 1d, 20p, 2.8s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - deals 1d, normal to main target
+‎ ‎ ‎ ‎ ‎ ‎ - deploys the *mine* in a random spot in brickell’s radius then seeks at a target
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of towers unless it is the only available spot
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of brickell
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - prefers spots closer to the track
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* has 0.4s activation delay
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* lasts 2 rounds or 120s
+**Naval Tactics** ability: 50s cooldown, all water towers in radius get 50%s for 9s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 16.67s
+‎ ‎ ‎ ‎ ‎ ‎ - can affect brickell herself
+ 
+__Changes from Previous Level__
+**Naval Tactics** ability added
+
+level 4
+50r
+*pistol*- 3d, 1p, 0.7s, sharp
+*mine*- 1d, 28p, 2.8s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - deals 1d, normal to main target
+‎ ‎ ‎ ‎ ‎ ‎ - deploys the *mine* in a random spot in brickell’s radius then seeks at a target
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of towers unless it is the only available spot
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of brickell
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - prefers spots closer to the track
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* has 0.4s activation delay
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* lasts 2 rounds or 120s
+**Naval Tactics** ability: 50s cooldown, all water towers in radius get 50%s for 9s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 16.67s
+‎ ‎ ‎ ‎ ‎ ‎ - can affect brickell herself
+ 
+__Changes from Previous Level__
+*mine* gets +8p
+
+level 5
+50r
+*pistol*- 3d, 1p, 0.7s, sharp
+*mine*- 1d, 28p, 2.8s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - deals 1d, normal to main target
+‎ ‎ ‎ ‎ ‎ ‎ - deploys the *mine* in a random spot in brickell’s radius then seeks at a target
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of towers unless it is the only available spot
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of brickell
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - prefers spots closer to the track
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* has 0.4s activation delay
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* lasts 2 rounds or 120s
+**Naval Tactics** ability: 50s cooldown, all water towers in radius get +1p, 50%s, normal for 9s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 16.67s
+‎ ‎ ‎ ‎ ‎ ‎ - can affect brickell herself
+ 
+__Changes from Previous Level__
+**Naval Tactics** ability gives +1p and normal type
+
+level 6
+50r
+*pistol*- 5d, 1p, 0.7s, sharp
+*mine*- 2d, 28p, 2.8s, explosive
+‎ ‎ ‎ ‎ ‎ ‎ - deals 2d, normal to main target
+‎ ‎ ‎ ‎ ‎ ‎ - deploys the *mine* in a random spot in brickell’s radius then seeks at a target
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of towers unless it is the only available spot
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of brickell
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - prefers spots closer to the track
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* has 0.4s activation delay
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* lasts 2 rounds or 120s
+**Naval Tactics** ability: 50s cooldown, all water towers in radius get +1p, 50%s, normal for 9s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 16.67s
+‎ ‎ ‎ ‎ ‎ ‎ - can affect brickell herself
+ 
+__Changes from Previous Level__
+*pistol* gets +2d
+*mine* gets +1d
+
+level 7
+58r
+*pistol*- 5d, 1p, 0.7s, sharp, camo
+*mine*- 2d, 28p, 2.8s, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - deals 2d, normal to main target
+‎ ‎ ‎ ‎ ‎ ‎ - deploys the *mine* in a random spot in brickell’s radius then seeks at a target
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of towers unless it is the only available spot
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of brickell
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - prefers spots closer to the track
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* has 0.4s activation delay
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* lasts 2 rounds or 120s
+**Naval Tactics** ability: 50s cooldown, all water towers in radius get +1p, 50%s, normal for 9s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 16.67s
+‎ ‎ ‎ ‎ ‎ ‎ - can affect brickell herself
+**Blast Chain** ability: 45s cooldown, *mine* activation delay becomes 0.2s, projectile speed doubled for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 23.33s
+ 
+__Changes from Previous Level__
+**Blast Chain** ability added
++8r
+camo
+
+level 8
+58r
+*pistol*- 5d, 1p, 0.7s, sharp, camo
+*mine*- 2d, 28p, 2.8s, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - deals 2d, normal to main target
+‎ ‎ ‎ ‎ ‎ ‎ - deploys the *mine* in a random spot in brickell’s radius then seeks at a target
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of towers unless it is the only available spot
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of brickell
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - prefers spots closer to the track
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* has 0.4s activation delay
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* lasts 2 rounds or 120s
+**Naval Tactics** ability: 50s cooldown, all water towers in radius get +1p, 50%s, normal, camo for 9s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 16.67s
+‎ ‎ ‎ ‎ ‎ ‎ - can affect brickell herself
+**Blast Chain** ability: 45s cooldown, *mine* activation delay becomes 0.2s, projectile speed doubled for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 23.33s
+*buff*- water towers in radius get +1p
+‎ ‎ ‎ ‎ ‎ ‎ - does not affect brickell herself
+ 
+__Changes from Previous Level__
+**Naval Tactics** ability gives camo
+
+level 9
+58r
+*pistol*- 5d, 1p, 0.7s, sharp, camo
+*mine*- 7d, 28p, 2.8s, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - deals 7d, normal to main target
+‎ ‎ ‎ ‎ ‎ ‎ - deploys the *mine* in a random spot in brickell’s radius then seeks at a target
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of towers unless it is the only available spot
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of brickell
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - prefers spots closer to the track
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* has 0.4s activation delay
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* lasts 2 rounds or 120s
+**Naval Tactics** ability: 50s cooldown, all water towers in radius get +1p, 50%s, normal, camo for 9s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 16.67s
+‎ ‎ ‎ ‎ ‎ ‎ - can affect brickell herself
+**Blast Chain** ability: 45s cooldown, *mine* activation delay becomes 0.2s, projectile speed doubled for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 23.33s
+*buff*- water towers in radius get +1p
+‎ ‎ ‎ ‎ ‎ ‎ - does not affect brickell herself
+ 
+__Changes from Previous Level__
+*mine* gets +5d
+
+level 10
+58r
+*pistol*- 5d, 1p, 0.7s, sharp, camo
+*mine*- 7d, 28p, 2.8s, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - deals 7d, normal to main target
+‎ ‎ ‎ ‎ ‎ ‎ - deploys the *mine* in a random spot in brickell’s radius then seeks at a target
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of towers unless it is the only available spot
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of brickell
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - prefers spots closer to the track
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* has 0.4s activation delay
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* lasts 2 rounds or 120s
+**Naval Tactics** ability: 50s cooldown, all water towers in radius get +1p, 50%s, normal, camo for 9s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 16.67s
+‎ ‎ ‎ ‎ ‎ ‎ - can affect brickell herself
+**Blast Chain** ability: 45s cooldown, *mine* activation delay becomes 0.2s, projectile speed doubled for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 23.33s
+**Mega Mine** ability: 60s cooldown, places *mega-mine* in a selected location
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+‎ ‎ ‎ ‎ ‎ ‎ - *mega-mine* lasts 4 rounds or 180s
+‎ ‎ ‎ ‎ ‎ ‎ - seeks a target and creates *explosion*
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 4000d, 100p, normal
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎   - stuns any layer that was not popped for 5s after impact
+*buff*- water towers in radius get +1p
+‎ ‎ ‎ ‎ ‎ ‎ - does not affect brickell herself
+ 
+__Changes from Previous Level__
+**Mega Mine** ability added
+
+level 11
+58r
+*pistol*- 5d, 1p, 0.7s, sharp, camo
+*mine*- 7d, 28p, 2.5s, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - deals 7d, normal to main target
+‎ ‎ ‎ ‎ ‎ ‎ - deploys the *mine* in a random spot in brickell’s radius then seeks at a target
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of towers unless it is the only available spot
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of brickell
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - prefers spots closer to the track
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* has 0.4s activation delay
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* lasts 2 rounds or 120s
+**Naval Tactics** ability: 50s cooldown, all water towers in radius get +1p, 50%s, normal, camo for 9s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 16.67s
+‎ ‎ ‎ ‎ ‎ ‎ - can affect brickell herself
+**Blast Chain** ability: 45s cooldown, *mine* activation delay becomes 0.2s, projectile speed doubled for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 23.33s
+**Mega Mine** ability: 60s cooldown, places *mega-mine* in a selected location
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+‎ ‎ ‎ ‎ ‎ ‎ - *mega-mine* lasts 4 rounds or 180s
+‎ ‎ ‎ ‎ ‎ ‎ - seeks a target and creates *explosion*
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 4000d, 100p, normal
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎   - stuns any layer that was not popped for 5s after impact
+*buff*- water towers in radius get +1p
+‎ ‎ ‎ ‎ ‎ ‎ - does not affect brickell herself
+ 
+__Changes from Previous Level__
+*mine* gets 89.29%s
+
+level 12
+58r
+*pistol*- 8d, 1p, 0.4s, sharp, camo
+*mine*- 12d, 28p, 2.5s, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - deals 12d, normal to main target
+‎ ‎ ‎ ‎ ‎ ‎ - deploys the *mine* in a random spot in brickell’s radius then seeks at a target
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of towers unless it is the only available spot
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of brickell
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - prefers spots closer to the track
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* has 0.4s activation delay
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* lasts 2 rounds or 120s
+**Naval Tactics** ability: 50s cooldown, all water towers in radius get +1p, 50%s, normal, camo for 9s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 16.67s
+‎ ‎ ‎ ‎ ‎ ‎ - can affect brickell herself
+**Blast Chain** ability: 45s cooldown, *mine* activation delay becomes 0.2s, projectile speed doubled for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 23.33s
+**Mega Mine** ability: 60s cooldown, places *mega-mine* in a selected location
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+‎ ‎ ‎ ‎ ‎ ‎ - *mega-mine* lasts 4 rounds or 180s
+‎ ‎ ‎ ‎ ‎ ‎ - seeks a target and creates *explosion*
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 4000d, 100p, normal
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎   - stuns any layer that was not popped for 5s after impact
+*buff*- water towers in radius get +1p
+‎ ‎ ‎ ‎ ‎ ‎ - does not affect brickell herself
+ 
+__Changes from Previous Level__
+*pistol* gets +3d, 57.14%s
+*mine* gets +5d
+
+level 13
+58r
+*pistol*- 8d, 1p, 0.4s, sharp, camo
+*mine*- 12d, 28p, 2.5s, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - deals 12d, normal to main target
+‎ ‎ ‎ ‎ ‎ ‎ - deploys the *mine* in a random spot in brickell’s radius then seeks at a target
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of towers unless it is the only available spot
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of brickell
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - prefers spots closer to the track
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* has 0.4s activation delay
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* lasts 2 rounds or 120s
+**Naval Tactics** ability: 50s cooldown, all water towers in radius get +1p, 50%s, normal, camo for 9s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 16.67s
+‎ ‎ ‎ ‎ ‎ ‎ - can affect brickell herself
+**Blast Chain** ability: 45s cooldown, *mine* activation delay becomes 0.2s, projectile speed doubled for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 23.33s
+**Mega Mine** ability: 50s cooldown, places *mega-mine* in a selected location
+‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 10s
+‎ ‎ ‎ ‎ ‎ ‎ - *mega-mine* lasts 4 rounds or 180s
+‎ ‎ ‎ ‎ ‎ ‎ - seeks a target and creates *explosion*
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 4000d, 100p, normal
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎   - stuns any layer that was not popped for 5s after impact
+*buff*- water towers in radius get +1p
+‎ ‎ ‎ ‎ ‎ ‎ - does not affect brickell herself
+ 
+__Changes from Previous Level__
+**Mega Mine** ability gets 60s -> 50s cooldown
+
+level 14
+58r
+*pistol*- 8d, 1p, 0.4s, sharp, camo
+*mine*- 12d, 28p, 2.5s, explosive, camo
+‎ ‎ ‎ ‎ ‎ ‎ - deals 12d, normal to main target
+‎ ‎ ‎ ‎ ‎ ‎ - deploys the *mine* in a random spot in brickell’s radius then seeks at a target
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of towers unless it is the only available spot
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of brickell
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - prefers spots closer to the track
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* has 0.4s activation delay
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* lasts 2 rounds or 120s
+**Naval Tactics** ability: 50s cooldown, all water towers in radius get +1p, 50%s, normal, camo for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 16.67s
+‎ ‎ ‎ ‎ ‎ ‎ - can affect brickell herself
+**Blast Chain** ability: 45s cooldown, *mine* activation delay becomes 0.2s, projectile speed doubled for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 23.33s
+**Mega Mine** ability: 50s cooldown, places *mega-mine* in a selected location
+‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 10s
+‎ ‎ ‎ ‎ ‎ ‎ - *mega-mine* lasts 4 rounds or 180s
+‎ ‎ ‎ ‎ ‎ ‎ - seeks a target and creates *explosion*
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 4000d, 100p, normal
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎   - stuns any layer that was not popped for 5s after impact
+*buff*- water towers in radius get +1p
+‎ ‎ ‎ ‎ ‎ ‎ - does not affect brickell herself
+ 
+__Changes from Previous Level__
+**Naval Tactics** ability gets 9s -> 12s duration
+
+level 15
+58r
+*pistol*- 12d, 1p, 0.4s, sharp, camo
+*mine*- 12d, 28p, 2.5s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - deals 12d, normal to main target
+‎ ‎ ‎ ‎ ‎ ‎ - deploys the *mine* in a random spot in brickell’s radius then seeks at a target
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of towers unless it is the only available spot
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of brickell
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - prefers spots closer to the track
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* has 0.4s activation delay
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* lasts 2 rounds or 120s
+‎ ‎ ‎ ‎ ‎ ‎ -removes camo on damage
+**Naval Tactics** ability: 50s cooldown, all water towers in radius get +1p, 50%s, normal, camo for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 16.67s
+‎ ‎ ‎ ‎ ‎ ‎ - can affect brickell herself
+**Blast Chain** ability: 45s cooldown, *mine* activation delay becomes 0.2s, projectile speed doubled for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 23.33s
+**Mega Mine** ability: 50s cooldown, places *mega-mine* in a selected location
+‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 10s
+‎ ‎ ‎ ‎ ‎ ‎ - *mega-mine* lasts 4 rounds or 180s
+‎ ‎ ‎ ‎ ‎ ‎ - seeks a target and creates *explosion*
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 4000d, 100p, normal
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎   - stuns any layer that was not popped for 5s after impact
+*buff*- water towers in radius get +1p
+‎ ‎ ‎ ‎ ‎ ‎ - does not affect brickell herself
+ 
+__Changes from Previous Level__
+*pistol* gets +4d
+*mine* gets normal type, increased blast radius, removes camo on damage
+
+level 16
+62r
+*pistol*- 12d, 1p, 0.4s, sharp, camo
+*mine*- 12d, 28p, 2.5s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - deals 12d, normal to main target
+‎ ‎ ‎ ‎ ‎ ‎ - deploys the *mine* in a random spot in brickell’s radius then seeks at a target
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of towers unless it is the only available spot
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of brickell
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - prefers spots closer to the track
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* has 0.4s activation delay
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* lasts 2 rounds or 120s
+‎ ‎ ‎ ‎ ‎ ‎ -removes camo on damage
+**Naval Tactics** ability: 50s cooldown, all water towers in radius get +1p, 50%s, normal, camo for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 16.67s
+‎ ‎ ‎ ‎ ‎ ‎ - can affect brickell herself
+**Blast Chain** ability: 45s cooldown, *mine* activation delay becomes 0.2s, projectile speed doubled for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 23.33s
+**Mega Mine** ability: 50s cooldown, places *mega-mine* in a selected location
+‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 10s
+‎ ‎ ‎ ‎ ‎ ‎ - *mega-mine* lasts 4 rounds or 180s
+‎ ‎ ‎ ‎ ‎ ‎ - seeks a target and creates *explosion*
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 4000d, 100p, normal
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎   - stuns any layer that was not popped for 5s after impact
+*buff*- water towers in radius get +1p
+‎ ‎ ‎ ‎ ‎ ‎ - does not affect brickell herself
+ 
+__Changes from Previous Level__
++4r
+
+level 17
+62r
+*pistol*- 18d, 1p, 0.4s, sharp, camo
+*mine*- 22d, 28p, 2.5s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - deals 22d, normal to main target
+‎ ‎ ‎ ‎ ‎ ‎ - deploys the *mine* in a random spot in brickell’s radius then seeks at a target
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of towers unless it is the only available spot
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of brickell
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - prefers spots closer to the track
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* has 0.4s activation delay
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* lasts 2 rounds or 120s
+‎ ‎ ‎ ‎ ‎ ‎ -removes camo on damage
+**Naval Tactics** ability: 50s cooldown, all water towers in radius get +1p, 50%s, normal, camo for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 16.67s
+‎ ‎ ‎ ‎ ‎ ‎ - can affect brickell herself
+**Blast Chain** ability: 45s cooldown, *mine* activation delay becomes 0.2s, projectile speed doubled for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 23.33s
+**Mega Mine** ability: 50s cooldown, places *mega-mine* in a selected location
+‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 10s
+‎ ‎ ‎ ‎ ‎ ‎ - *mega-mine* lasts 4 rounds or 180s
+‎ ‎ ‎ ‎ ‎ ‎ - seeks a target and creates *explosion*
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 4000d, 100p, normal
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎   - stuns any layer that was not popped for 5s after impact
+*buff*- water towers in radius get +1p
+‎ ‎ ‎ ‎ ‎ ‎ - does not affect brickell herself
+ 
+__Changes from Previous Level__
+*pistol* gets +6d
+*mine* gets +10d
+
+level 18
+62r
+*pistol*- 18d, 1p, 0.4s, sharp, camo
+*mine*- 22d, 28p, 2.5s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - deals 22d, normal to main target
+‎ ‎ ‎ ‎ ‎ ‎ - deploys the *mine* in a random spot in brickell’s radius then seeks at a target
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of towers unless it is the only available spot
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of brickell
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - prefers spots closer to the track
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* has 0.4s activation delay
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* lasts 2 rounds or 120s
+‎ ‎ ‎ ‎ ‎ ‎ -removes camo on damage
+**Naval Tactics** ability: 50s cooldown, all water towers in radius get +1p, 50%s, normal, camo for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 16.67s
+‎ ‎ ‎ ‎ ‎ ‎ - can affect brickell herself
+**Blast Chain** ability: 45s cooldown, *mine* activation delay becomes 0.2s, projectile speed doubled for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 23.33s
+**Mega Mine** ability: 40s cooldown, places *mega-mine* in a selected location
+‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 10s
+‎ ‎ ‎ ‎ ‎ ‎ - *mega-mine* lasts 4 rounds or 180s
+‎ ‎ ‎ ‎ ‎ ‎ - seeks a target and creates *explosion*
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 4000d, 100p, normal
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎   - stuns any layer that was not popped for 5s after impact
+*buff*- water towers in radius get +1p
+‎ ‎ ‎ ‎ ‎ ‎ - does not affect brickell herself
+ 
+__Changes from Previous Level__
+**Mega Mine** ability gets 50s -> 40s cooldown
+
+level 19
+62r
+*pistol*- 18d, 1p, 0.4s, sharp, camo
+*mine*- 22d, 28p, 2.5s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - deals 22d, normal to main target
+‎ ‎ ‎ ‎ ‎ ‎ - deploys the *mine* in a random spot in brickell’s radius then seeks at a target
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of towers unless it is the only available spot
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of brickell
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - prefers spots closer to the track
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* has 0.4s activation delay
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* lasts 2 rounds or 120s
+‎ ‎ ‎ ‎ ‎ ‎ -removes camo on damage
+**Naval Tactics** ability: 50s cooldown, all water towers get +1p, 50%s, normal, camo for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 16.67s
+‎ ‎ ‎ ‎ ‎ ‎ - can affect brickell herself
+**Blast Chain** ability: 45s cooldown, *mine* activation delay becomes 0.2s, projectile speed doubled for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 23.33s
+**Mega Mine** ability: 40s cooldown, places *mega-mine* in a selected location
+‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 10s
+‎ ‎ ‎ ‎ ‎ ‎ - *mega-mine* lasts 4 rounds or 180s
+‎ ‎ ‎ ‎ ‎ ‎ - seeks a target and creates *explosion*
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 4000d, 100p, normal
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎   - stuns any layer that was not popped for 5s after impact
+*buff*- water towers in radius get +1p
+‎ ‎ ‎ ‎ ‎ ‎ - does not affect brickell herself
+ 
+__Changes from Previous Level__
+**Naval Tactics** ability can affect towers out of brickell's range
+
+level 20
+62r
+*pistol*- 18d, 1p, 0.4s, sharp, camo
+*mine*- 22d, 28p, 2.5s, normal, camo
+‎ ‎ ‎ ‎ ‎ ‎ - deals 22d, normal to main target
+‎ ‎ ‎ ‎ ‎ ‎ - deploys the *mine* in a random spot in brickell’s radius then seeks at a target
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of towers unless it is the only available spot
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - cannot spawn on top of brickell
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - prefers spots closer to the track
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* has 0.4s activation delay
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *mine* lasts 2 rounds or 120s
+‎ ‎ ‎ ‎ ‎ ‎ -removes camo on damage
+**Naval Tactics** ability: 50s cooldown, all water towers get +1p, 50%s, normal, camo for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 16.67s
+‎ ‎ ‎ ‎ ‎ ‎ - can affect brickell herself
+**Blast Chain** ability: 45s cooldown, *mine* activation delay becomes 0.2s, projectile speed doubled for 12s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 23.33s
+**Mega Mine** ability: 40s cooldown, places *mega-mine* in a selected location
+‎ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 10s
+‎ ‎ ‎ ‎ ‎ ‎ - *mega-mine* lasts 4 rounds or 180s
+‎ ‎ ‎ ‎ ‎ ‎ - seeks a target and creates *explosion*
+ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 11,000d, 150p, normal
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎   - stuns any layer that was not popped for 10s after impact
+*buff*- water towers in radius get +1p
+‎ ‎ ‎ ‎ ‎ ‎ - does not affect brickell herself
+ 
+__Changes from Previous Level__
+*mega-mine* gets +7,000d (11,000), +50p (150)
+*mega-mine* stun duration 5s -> 10s
+
+all levels
+__**Cost**: $750 (med), $810 (hard)  |  **XP Curve**: 1.425x__
+LVL 1 - has *pistol* and *mine* attacks
+LVL 2 - *pistol* gets 87.5%s (0.7s)  ♦️  *mine* gets 93.33%s (2.8s)
+LVL 3 - **Naval Tactics** ability added
+LVL 4 - *mine* gets +8p (28)
+LVL 5 - Naval Tactics ability also gives +1p and normal type
+LVL 6 - *pistol* gets +2d (5)  ♦️  *mine* gets +1d (2)
+LVL 7 - **Blast Chain** ability added  ♦️  +8r (58), camo
+LVL 8 - Naval Tactics ability gives camo
+LVL 9 - *mine* gets +5d (7)
+LVL 10 - **Mega Mine** ability added
+LVL 11 - *mine* gets 89.29%s (2.5s)
+LVL 12 - *pistol* gets +3d (8), 57.14%s (0.4s)  ♦️  *mine* gets +5d (12)
+LVL 13 - Mega Mine ability gets 60s -> 50s cooldown
+LVL 14 - Naval Tactics ability gets 9s -> 12s duration
+LVL 15 - *pistol* gets +4d (12)  ♦️  *mine* gets normal type, increased blast radius, removes camo on damage
+LVL 16 - +4r (62)
+LVL 17 - *pistol* gets +6d (18)  ♦️  *mine* gets +10d (22)
+LVL 18 - Mega Mine ability gets 50s -> 40s cooldown
+LVL 19 - Naval Tactics ability can affect towers out of brickell's range
+LVL 20 - *mega-mine* gets +7,000d (11,000), +50p (150), *mega-mine* stun duration 5s -> 10s
