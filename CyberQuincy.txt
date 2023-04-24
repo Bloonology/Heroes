@@ -1,0 +1,312 @@
+level 1
+50r
+*arrow*- 1d, 4p, 0.95s
+    - can jump to a nearby target after hitting
+ 
+XP Curve: 1
+footprint radius: 7 (medium)
+ 
+**cost** - 450
+
+level 2
+50r
+*arrow*- 1d, 6p, 0.95s
+    - can jump to a nearby target after hitting
+ 
+__Changes from Previous Level__
+*arrow* gets +2p
+
+level 3
+50r
+*arrow*- 1d, 6p, 0.95s
+    - can jump to a nearby target after hitting
+**Cyber Shot** ability: 45s cooldown (initial: 11.25s), +15p (21), +5r (55) for 7.2s
+    - duration increases 0.4s per level (4 + 0.4*level)
+ 
+__Changes from Previous Level__
+**Rapid Shot** ability added
+
+level 4
+52r
+*arrow*- 1d, 6p, 0.95s
+    - can jump to a nearby target after hitting
+**Cyber Shot** ability: 45s cooldown (initial: 11.25s), +15p (21), +5r (57) for 7.6s
+    - duration increases 0.4s per level (4 + 0.4*level)
+ 
+__Changes from Previous Level__
++2r
+
+level 5
+52r
+*arrow*- 1d, 6p, 0.95s, camo
+    - can jump to a nearby target after hitting
+**Cyber Shot** ability: 45s cooldown (initial: 11.25s), +15p (21), +5r (57) for 8s
+    - duration increases 0.4s per level (4 + 0.4*level)
+ 
+__Changes from Previous Level__
+camo
+
+level 6
+52r
+*arrow*- 1d, 6p, 0.95s, 2j, camo
+    - can jump to a nearby target after hitting
+**Cyber Shot** ability: 45s cooldown (initial: 11.25s), +15p (21), +5r (57) for 8.4s
+    - duration increases 0.4s per level (4 + 0.4*level)
+ 
+__Changes from Previous Level__
+*arrow* gets +1j
+
+level 7
+52r
+*arrow*- 1d, 6p, 0.95s, 2j, camo
+    - can jump to a nearby target after hitting
+    - creates *explosion* every 3rd shot
+        - *explosion*- 1d, 10p, plasma
+**Cyber Shot** ability: 45s cooldown (initial: 11.25s), +15p (21), +5r (57) for 8.8s
+    - duration increases 0.4s per level (4 + 0.4*level)
+    - gives *explosion* +1d, +10p
+ 
+__Changes from Previous Level__
+*arrow* creates *explosion* every 3rd shot
+
+level 8
+52r
+*arrow*- 1d, 3md, 6p, 0.95s, 2j, camo
+    - can jump to a nearby target after hitting
+    - creates *explosion* every 3rd shot
+        - *explosion*- 1d, 3md, 10p, plasma
+**Cyber Shot** ability: 45s cooldown (initial: 11.25s), +15p (21), +5r (57) for 9.2s
+    - duration increases 0.4s per level (4 + 0.4*level)
+    - gives *explosion* +1d, +10p
+ 
+__Changes from Previous Level__
+*arrow* gets +2md
+
+level 9
+52r
+*arrow*- 1d, 3md, 8p, 0.95s, 2j, camo
+    - can jump to a nearby target after hitting
+    - creates *explosion* every 3rd shot
+        - *explosion*- 1d, 3md, 10p, plasma
+**Cyber Shot** ability: 45s cooldown (initial: 11.25s), +15p (23), +5r (57) for 9.6s
+    - duration increases 0.4s per level (4 + 0.4*level)
+    - gives *explosion* +1d, +10p
+ 
+__Changes from Previous Level__
+*arrow* gets +2p
+
+level 10
+52r
+*arrow*- 1d, 3md, 8p, 0.95s, 2j, camo
+    - can jump to a nearby target after hitting
+    - creates *explosion* every 3rd shot
+        - *explosion*- 1d, 3md, 10p, plasma
+**Cyber Shot** ability: 45s cooldown (initial: 11.25s), +15p (23), +5r (57)) for 10s
+    - duration increases 0.4s per level (4 + 0.4*level)
+    - gives *explosion* +1d, +10p
+**Storm of Arrows** ability: 60s cooldown (battle ready), *storm-arrow* attack active for 1.5s
+    - *storm-arrow*- 25d, 50md, ∞p, 0.05s, plasma
+        - 100r
+        - tries up to 3 times to hit each individual target 7.5% chance to hit each time
+ 
+__Changes from Previous Level__
+**Storm of Arrows** ability added
+
+level 11
+52r
+*arrow*- 1d, 3md, 8p, 0.6s, 2j, camo
+    - can jump to a nearby target after hitting
+    - creates *explosion* every 3rd shot
+        - *explosion*- 1d, 3md, 10p, plasma
+**Cyber Shot** ability: 45s cooldown (initial: 11.25s), +15p (23), +5r (57) for 10.4s
+    - duration increases 0.4s per level (4 + 0.4*level)
+    - gives *explosion* +1d, +10p
+**Storm of Arrows** ability: 60s cooldown (battle ready), *storm-arrow* attack active for 1.5s
+    - *storm-arrow*- 25d, 50md, ∞p, 0.05s, plasma
+        - 100r
+        - tries up to 3 times to hit each individual target 7.5% chance to hit each time
+ 
+__Changes from Previous Level__
+*arrow* gets 63.16%s
+
+level 12
+52r
+*arrow*- 1d, 3md, 9p, 0.6s, 2j, camo
+    - can jump to a nearby target after hitting
+    - creates *explosion* every 3rd shot
+        - *explosion*- 1d, 3md, 10p, plasma
+**Cyber Shot** ability: 45s cooldown (initial: 11.25s), +15p (24), +5r (57) for 10.8s
+    - duration increases 0.4s per level (4 + 0.4*level)
+    - gives *explosion* +1d, +10p
+**Storm of Arrows** ability: 60s cooldown (battle ready), *storm-arrow* attack active for 1.5s
+    - *storm-arrow*- 25d, 50md, ∞p, 0.05s, plasma
+        - 100r
+        - tries up to 3 times to hit each individual target 75% chance to hit each time
+ 
+__Changes from Previous Level__
+*arrow* gets +1p
+
+level 13
+54r
+*arrow*- 1d, 3md, 9p, 0.6s, 2j, camo
+    - can jump to a nearby target after hitting
+    - creates *explosion* every 3rd shot
+        - *explosion*- 1d, 3md, 10p, plasma
+**Cyber Shot** ability: 45s cooldown (initial: 11.25s), +15p (24), +5r (59) for 11.2s
+    - duration increases 0.4s per level (4 + 0.4*level)
+    - gives *explosion* +1d, +10p
+**Storm of Arrows** ability: 60s cooldown (battle ready), *storm-arrow* attack active for 1.5s
+    - *storm-arrow*- 25d, 50md, ∞p, 0.05s, plasma
+        - 100r
+        - tries up to 3 times to hit each individual target 7.5% chance to hit each time
+ 
+__Changes from Previous Level__
++2r
+
+level 14
+54r
+*arrow*- 1d, 5md, 9p, 0.6s, 2j, camo
+    - can jump to a nearby target after hitting
+    - creates *explosion* every 3rd shot
+        - *explosion*- 1d, 4md, 10p, plasma
+**Cyber Shot** ability: 45s cooldown (initial: 11.25s), +15p (24), +5r (59) for 11.6s
+    - duration increases 0.4s per level (4 + 0.4*level)
+    - gives *explosion* +1d, +10p
+**Storm of Arrows** ability: 60s cooldown (battle ready), *storm-arrow* attack active for 1.5s
+    - *storm-arrow*- 25d, 50md, ∞p, 0.05s, plasma
+        - 100r
+        - tries up to 3 times to hit each individual target 7.5% chance to hit each time
+ 
+__Changes from Previous Level__
+*arrow* gets +2md
+
+level 15
+54r
+*arrow*- 1d, 5md, 9p, 0.6s, 2j, camo
+    - can jump to a nearby target after hitting
+    - creates *explosion* every 3rd shot
+        - *explosion*- 1d, 4md, 10p, plasma
+**Rapid Shot** ability: 35s cooldown (initial: 15s reduced from existing cooldown), +30p (39), +5r (59) for 12s
+    - duration increases 0.4s per level (4 + 0.4*level)
+    - gives *explosion* +2d, +10p
+**Storm of Arrows** ability: 60s cooldown (battle ready), *storm-arrow* attack acti	ve for 1.5s
+    - *storm-arrow*- 25d, 50md, ∞p, 0.05s, plasma
+        - 100r
+        - tries up to 3 times to hit each individual target 7.5% chance to hit each time
+ 
+__Changes from Previous Level__
+**Rapid Shot** ability gets 60s -> 45s cooldown
+**Rapid Shot** ability +15p -> +30p, *explosion* +1d -> +2d
+
+level 16
+54r
+*arrow*- 1d, 5md, 9p, 0.4s, 2j, camo
+    - can jump to a nearby target after hitting
+    - creates *explosion* every 3rd shot
+        - *explosion*- 1d, 4md, 10p, plasma
+**Rapid Shot** ability: 35s cooldown (initial: 15s reduced from existing cooldown), +30p (39), +5r (59) for 12.4s
+    - duration increases 0.4s per level (4 + 0.4*level)
+    - gives *explosion* +1d, +10p
+**Storm of Arrows** ability: 60s cooldown (battle ready), *storm-arrow* attack active for 1.5s
+    - *storm-arrow*- 25d, 50md, ∞p, 0.05s, plasma
+        - 100r
+        - tries up to 3 times to hit each individual target 7.5% chance to hit each time
+ 
+__Changes from Previous Level__
+*arrow* gets 66.67%s
+
+level 17
+54r
+*arrow*- 1d, 5md, 9p, 0.4s, 2j, camo
+    - can jump to a nearby target after hitting
+    - creates *explosion* every 2nd shot
+        - *explosion*- 1d, 4md, 10p, plasma
+**Rapid Shot** ability: 35s cooldown (initial: 15s reduced from existing cooldown), +30p (39), +5r (59) for 12.8s
+    - duration increases 0.4s per level (4 + 0.4*level)
+    - gives *explosion* +1d, +10p
+**Storm of Arrows** ability: 60s cooldown (battle ready), *storm-arrow* attack active for 1.5s
+    - *storm-arrow*- 25d, 50md, ∞p, 0.05s, plasma
+        - 100r
+        - tries up to 3 times to hit each individual target 7.5% chance to hit each time
+ 
+__Changes from Previous Level__
+*arrow* gets +25% lifetime, *explosion* frequency every 3rd shot -> every 2nd shot
+
+level 18
+54r
+*arrow*- 1d, 5md, 9p, 0.25s, 2j, camo
+    - can jump to a nearby target after hitting
+    - creates *explosion* every 2nd shot
+        - *explosion*- 1d, 4md, 10p, plasma
+**Rapid Shot** ability: 35s cooldown (initial: 15s reduced from existing cooldown), +30p (39), +5r (59) for 13.2s
+    - duration increases 0.4s per level (4 + 0.4*level)
+    - gives *explosion* +1d, +10p
+**Storm of Arrows** ability: 50s cooldown (initial: 10s reduced from existing cooldown), *storm-arrow* attack active for 1.5s
+    - *storm-arrow*- 35d, 70md, ∞p, 0.05s, plasma
+        - 100r
+        - tries up to 3 times to hit each individual target 10% chance to hit each time
+ 
+__Changes from Previous Level__
+*arrow* gets 62.5%s
+**Storm of Arrows** ability gets 60s -> 50s cooldown
+*storm-arrow*’s chance to hit target increased 7.5% -> 10%
+*storm-arrow* damage increased 25 -> 35, moab damage increased 50 -> 70
+
+level 19
+54r
+*arrow*- 1d, 5md, 11p, 0.25s, 2j, camo
+    - can jump to a nearby target after hitting
+    - creates *explosion* every 2nd shot
+        - *explosion*- 1d, 4md, 10p, plasma
+**Rapid Shot** ability: 35s cooldown (initial: 15s reduced from existing cooldown), +30p (41), +5r (59) for 13.6s
+    - duration increases 0.4s per level (4 + 0.4*level)
+    - gives *explosion* +1d, +10p
+**Storm of Arrows** ability: 50s cooldown (initial: 10s reduced from existing cooldown), *storm-arrow* attack active for 1.5s
+    - *storm-arrow*- 35d, 70md, ∞p, 0.05s, plasma
+        - 100r
+        - tries up to 3 times to hit each individual target 10% chance to hit each time
+ 
+__Changes from Previous Level__
+*arrow* gets +2p
+
+level 20
+54r
+*arrow*- 1d, 5md, 11p, 0.2s, 2j, camo
+    - can jump to a nearby target after hitting
+    - creates *explosion* every 2nd shot
+        - *explosion*- 1d, 4md, 10p, plasma
+**Rapid Shot** ability: 35s cooldown (initial: 15s reduced from existing cooldown) +30p (41), +5r (59) for 14s
+    - duration increases 0.4s per level (4 + 0.4*level)
+    - gives *explosion* +1d, +10p
+**Storm of Arrows** ability: 50s cooldown (initial: 10s reduced from existing cooldown), *storm-arrow* attack active for 1.5s
+    - *storm-arrow*- 60d, 120md, ∞p, 0.05s, plasma
+        - 100r
+        - tries up to 3 times to hit each individual target 15% chance to hit each time
+ 
+__Changes from Previous Level__
+*arrow* gets 80%s
+**Storm of Arrows** ability gets +25d, +25md, *storm-arrow*’s chance to hit target increased 10% -> 15%
+
+
+all levels
+__**Cost**: $540 (med), $585 (hard)__
+LVL 1 - has *arrow* attack
+LVL 2 - *arrow* +2p (6)
+LVL 3 - **Rapid Shot** ability added
+LVL 4 - +2r (52)
+LVL 5 - gains camo
+LVL 6 - *arrow* gets +1j (2)
+LVL 7 - *arrow* creates *explosion* every 3rd shot
+LVL 8 - *arrow* gets +2md (3)
+LVL 9 - *arrow* gets +2p (8)
+LVL 10 - **Storm of Arrows** ability added
+LVL 11 - *arrow* gets 63.16%s (0.6s)
+LVL 12 - *arrow* gets +1p (9)
+LVL 13 - +2r (54)
+LVL 14 - *arrow* gets +2md (5)
+LVL 15 - Rapid Shot ability 45s -> 35s cooldown, +30p instead of +15p, +2d to *explosion* instead of +1d
+LVL 16 - *arrow* gets 66.67%s (0.4s)
+LVL 17 - *arrow* gets +25% lifetime, *explosion* frequency every 3rd shot -> every 2nd shot
+LVL 18 - *arrow* gets 62.5%s (0.25s), Storm of Arrows ability 60s -> 50s cooldown, *storm-arrow*’s chance to hit target increased 7.5% -> 10%, 25d, 50md -> 35d, 70md 
+LVL 19 - *arrow* gets +2p (11)
+LVL 20 - *arrow* gets 80%s (0.2s), Storm of Arrows ability gets +25d (60), +25md (120), *storm-arrow*’s chance to hit target increased 10% -> 15%
