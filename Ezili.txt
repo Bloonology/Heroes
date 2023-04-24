@@ -1,0 +1,495 @@
+level 1
+40r
+*curse*- 1d, 5p, 1.2s, plasma, camo
+ ‎ ‎ ‎ ‎ ‎ - applies *cursed* status- 1d/2.5s, 2.6s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - duration is refreshed when reapplied
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - only affects main target
+ 
+XP Curve: 1.425
+footprint radius: 7 (medium)
+ 
+**cost**
+510 - easy
+600 - medium
+650 - hard
+720 - impoppable
+
+level 2
+43r
+*curse*- 1d, 5p, 1.2s, plasma, camo
+ ‎ ‎ ‎ ‎ ‎ - applies *cursed* status- 1d/2.5s, 2.6s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - duration is refreshed when reapplied
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - only affects main target
+ 
+__Changes from Previous Level__
++3r
+
+level 3
+43r
+*curse*- 1d, 5p, 1.2s, plasma, camo
+ ‎ ‎ ‎ ‎ ‎ - applies *cursed* status- 1d/2.5s, 2.6s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - duration is refreshed when reapplied
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - only affects main target
+**Heartstopper** ability: 45s cooldown, regrow bloons cannot regrow and purple bloons lose immunities for 10s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+ ‎ ‎ ‎ ‎ ‎ - effect lasts for 10s after ability ends but cannot affect new spawns after the original 10s
+ 
+__Changes from Previous Level__
+**Heartstopper** ability added
+
+level 4
+43r
+*curse*- 1d, 5p, 1.2s, plasma, camo
+ ‎ ‎ ‎ ‎ ‎ - does 1d to the main target
+ ‎ ‎ ‎ ‎ ‎ - applies *cursed* status- 1d/2.5s, 2.6s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - duration is refreshed when reapplied
+**Heartstopper** ability: 45s cooldown, regrow bloons cannot regrow and purple bloons lose immunities for 10s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+ ‎ ‎ ‎ ‎ ‎ - effect lasts for 10s after ability ends but cannot affect new spawns after the original 10s
+ 
+__Changes from Previous Level__
+*curse* applies an additional 1d to the main target
+*cursed* status is applied to all targets
+
+level 5
+43r
+*curse*- 1d, 5p, 1s, plasma, camo
+ ‎ ‎ ‎ ‎ ‎ - does 1d to the main target
+ ‎ ‎ ‎ ‎ ‎  -applies *cursed* status- 1d/2.5s, 2.6s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - duration is refreshed when reapplied
+**Heartstopper** ability: 45s cooldown, regrow bloons cannot regrow and purple bloons lose immunities for 10s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+ ‎ ‎ ‎ ‎ ‎ - effect lasts for 10s after ability ends but cannot affect new spawns after the original 10s
+ 
+__Changes from Previous Level__
+*curse* gets 83.33%s
+
+level 6
+43r
+*curse*- 1d, 5p, 1s, plasma, camo
+ ‎ ‎ ‎ ‎ ‎ - does 1d to the main target
+ ‎ ‎ ‎ ‎ ‎ - applies *cursed* status- 1d/1.8s, 5.5s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - duration is refreshed when reapplied
+**Heartstopper** ability: 45s cooldown, regrow bloons cannot regrow and purple bloons lose immunities for 10s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+ ‎ ‎ ‎ ‎ ‎ - effect lasts for 10s after ability ends but cannot affect new spawns after the original 10s
+ 
+__Changes from Previous Level__
+*cursed* status gets 1d/2.5s -> 1d/1.8s, 2.6s -> 5.5s duration
+
+level 7
+43r
+*curse*- 1d, 5p, 1s, plasma, camo
+ ‎ ‎ ‎ ‎ ‎ - does 1d to the main target
+ ‎ ‎ ‎ ‎ ‎ - applies *cursed* status- 1d/1.8s, 5.5s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - duration is refreshed when reapplied
+**Heartstopper** ability: 45s cooldown, regrow bloons cannot regrow and purple bloons lose immunities for 10s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+ ‎ ‎ ‎ ‎ ‎ - effect lasts for 10s after ability ends but cannot affect new spawns after the original 10s
+**Sacrificial Totem** ability: 90s cooldown, removes 10 lives, spawns totem on selected spot
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 30s
+ ‎ ‎ ‎ ‎ ‎ - totem lasts 30s
+ ‎ ‎ ‎ ‎ ‎ - 78r
+  ‎ ‎ ‎ ‎ ‎ - *buff*- all towers in its range get 85%s, +1p, +25%r, +25% projectile speed, camo
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - wizards get 80%s instead of 85%s, +2p instead of +1p
+ 
+__Changes from Previous Level__
+**Sacrificial Totem** ability added
+
+level 8
+43r
+*curse*- 1d, 20md, 5p, 1s, plasma, camo
+ ‎ ‎ ‎ ‎ ‎ - does 1d, 20md to the main target
+ ‎ ‎ ‎ ‎ ‎ - applies *cursed* status- 2d/1.8s, 30md/1.8s, 5.5s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - duration is refreshed when reapplied
+**Heartstopper** ability: 45s cooldown, regrow bloons cannot regrow and purple bloons lose immunities for 10s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+ ‎ ‎ ‎ ‎ ‎ - effect lasts for 10s after ability ends but cannot affect new spawns after the original 10s
+**Sacrificial Totem** ability: 90s cooldown, removes 10 lives, spawns totem on selected spot
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 30s
+ ‎ ‎ ‎ ‎ ‎ - totem lasts 30s
+ ‎ ‎ ‎ ‎ ‎ - 78r
+  ‎ ‎ ‎ ‎ ‎ - *buff*- all towers in its range get 85%s, +1p, +25%r, +25% projectile speed, camo
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - wizards get 80%s instead of 85%s, +2p instead of +1p
+ 
+__Changes from Previous Level__
+*curse* gets +19md
+*cursed* status gets +1d, +29md
+
+level 9
+43r
+*curse*- 1d, 20md, 5p, 1s, plasma, camo
+ ‎ ‎ ‎ ‎ ‎ - does 1d, 20md to the main target
+ ‎ ‎ ‎ ‎ ‎ - applies *cursed* status- 2d/1.8s, 30md/1.8s, 5.5s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - duration is refreshed when reapplied
+ ‎ ‎ ‎ ‎ ‎ - removes camo and regrow on damage
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - cannot affect D.D.T.s
+ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
+**Heartstopper** ability: 45s cooldown, regrow bloons cannot regrow and purple bloons lose immunities for 10s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+ ‎ ‎ ‎ ‎ ‎ - effect lasts for 10s after ability ends but cannot affect new spawns after the original 10s
+**Sacrificial Totem** ability: 90s cooldown, removes 10 lives, spawns totem on selected spot
+ ‎ ‎ ‎ ‎ ‎ - totem lasts 30s
+ ‎ ‎ ‎ ‎ ‎ - 78r
+  ‎ ‎ ‎ ‎ ‎ - *buff*- all towers in its range get 85%s, +1p, +25%r, +25% projectile speed, camo
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - wizards get 80%s instead of 85%s, +2p instead of +1p
+ 
+__Changes from Previous Level__
+*curse* removes camo, regrow, and fortified
+
+level 10
+43r
+*curse*- 1d, 20md, 5p, 1s, plasma, camo
+ ‎ ‎ ‎ ‎ ‎ - does 1d, 20md to the main target
+ ‎ ‎ ‎ ‎ ‎ - applies *cursed* status- 2d/1.8s, 30md/1.8s, 5.5s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - duration is refreshed when reapplied
+ ‎ ‎ ‎ ‎ ‎ - removes camo and regrow on damage
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - cannot affect D.D.T.s
+ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
+**Heartstopper** ability: 45s cooldown, regrow bloons cannot regrow and purple bloons lose immunities for 10s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+ ‎ ‎ ‎ ‎ ‎ - effect lasts for 10s after ability ends but cannot affect new spawns after the original 10s
+**Sacrificial Totem** ability: 90s cooldown, removes 10 lives, spawns totem on selected spot
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 30s
+ ‎ ‎ ‎ ‎ ‎ - totem lasts 30s
+ ‎ ‎ ‎ ‎ ‎ - 78r
+  ‎ ‎ ‎ ‎ ‎ - *buff*- all towers in its range get 85%s, +1p, +25%r, +25% projectile speed, camo
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - wizards get 80%s instead of 85%s, +2p instead of +1p
+**MOAB Hex** ability: 60s cooldown, targets a moab and applies *hexed* status
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+ ‎ ‎ ‎ ‎ ‎ - *hexed* status- (4% + 1)d/1s, 25s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - *hexed* bloon does not spawn any children
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - if the target is popped before the time runs out *hexed* status is applied to the next strongest moab for the remaining duration
+ ‎ ‎ ‎ ‎ ‎ - follows ezili’s current targetting
+ ‎ ‎ ‎ ‎ ‎ - ∞r
+ 
+__Changes from Previous Level__
+**MOAB Hex** ability added
+
+level 11
+45r
+*curse*- 1d, 20md, 5p, 1s, plasma, camo
+ ‎ ‎ ‎ ‎ ‎ - does 1d, 20md to the main target
+ ‎ ‎ ‎ ‎ ‎ - applies *cursed* status- 2d/1.8s, 30md/1.8s, 5.5s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - duration is refreshed when reapplied
+ ‎ ‎ ‎ ‎ ‎ - removes camo and regrow on damage
+ ‎ ‎ ‎ ‎ ‎   ‎ ‎ ‎ ‎ ‎ - cannot affect D.D.T.s
+ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
+**Heartstopper** ability: 45s cooldown, regrow bloons cannot regrow and purple bloons lose immunities for 10s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 15s
+ ‎ ‎ ‎ ‎ ‎ - effect lasts for 10s after ability ends but cannot affect new spawns after the original 10s
+**Sacrificial Totem** ability: 90s cooldown, removes 10 lives, spawns totem on selected spot
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 30s
+ ‎ ‎ ‎ ‎ ‎ - totem lasts 30s
+ ‎ ‎ ‎ ‎ ‎ - 78r
+  ‎ ‎ ‎ ‎ ‎ - *buff*- all towers in its range get 85%s, +1p, +25%r, +25% projectile speed, camo
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - wizards get 80%s instead of 85%s, +2p instead of +1p
+**MOAB Hex** ability: 60s cooldown, targets a moab and applies *hexed* status
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+ ‎ ‎ ‎ ‎ ‎ - *hexed* status- (4% + 1)d/1s, 25s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - *hexed* bloon does not spawn any children
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - if the target is popped before the time runs out *hexed* status is applied to the next strongest moab for the remaining duration
+ ‎ ‎ ‎ ‎ ‎ - follows ezili’s current targetting
+ ‎ ‎ ‎ ‎ ‎ - ∞r
+*buff*- xx4+ wizard zombloons get +1p, xx5 zmoabs and a zbfbs get +10p
+ 
+__Changes from Previous Level__
++2r
+adds *buff* to zombloons and zomblimps
+
+level 12
+45r
+*curse*- 1d, 30md, 5p, 1s, plasma, camo
+ ‎ ‎ ‎ ‎ ‎ - does 1d, 30md to the main target
+ ‎ ‎ ‎ ‎ ‎ - applies *cursed* status- 2d/1.8s, 30md/1.8s, 5.5s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - duration is refreshed when reapplied
+ ‎ ‎ ‎ ‎ ‎ - removes camo and regrow on damage
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - cannot affect D.D.T.s
+ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
+**Heartstopper** ability: 40s cooldown, regrow bloons cannot regrow and purple bloons lose immunities for 15s
+ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 5s
+ ‎ ‎ ‎ ‎ ‎ - effect lasts for 15s after ability ends but cannot affect new spawns after the original 15s
+**Sacrificial Totem** ability: 90s cooldown, removes 10 lives, spawns totem on selected spot
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 30s
+ ‎ ‎ ‎ ‎ ‎ - totem lasts 30s
+ ‎ ‎ ‎ ‎ ‎ - 78r
+  ‎ ‎ ‎ ‎ ‎ - *buff*- all towers in its range get 85%s, +1p, +25%r, +25% projectile speed, camo
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - wizards get 80%s instead of 85%s, +2p instead of +1p
+**MOAB Hex** ability: 60s cooldown, targets a moab and applies *hexed* status
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+ ‎ ‎ ‎ ‎ ‎ - *hexed* status- (4% + 1)d/1s, 25s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - *hexed* bloon does not spawn any children
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - if the target is popped before the time runs out *hexed* status is applied to the next strongest moab for the remaining duration
+ ‎ ‎ ‎ ‎ ‎ - follows ezili’s current targetting
+ ‎ ‎ ‎ ‎ ‎ - ∞r
+*buff*- xx4+ wizard zombloons get +1p, xx5 zmoabs and a zbfbs get +10p
+ 
+__Changes from Previous Level__
+*curse* gets +10md
+**Heartstopper** ability gets 45s -> 40s cooldown, 10s -> 15s duration
+
+level 13
+45r
+*curse*- 1d, 30md, 15p, 1s, plasma, camo
+ ‎ ‎ ‎ ‎ ‎ - does 1d, 30md to the main target
+ ‎ ‎ ‎ ‎ ‎ - applies *cursed* status- 2d/1.8s, 30md/1.8s, 5.5s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - duration is refreshed when reapplied
+ ‎ ‎ ‎ ‎ ‎ - removes camo and regrow on damage
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - cannot affect D.D.T.s
+ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
+**Heartstopper** ability: 40s cooldown, regrow bloons cannot regrow and purple bloons lose immunities for 15s
+ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 5s
+ ‎ ‎ ‎ ‎ ‎ - effect lasts for 15s after ability ends but cannot affect new spawns after the original 15s
+**Sacrificial Totem** ability: 90s cooldown, removes 10 lives, spawns totem on selected spot
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 30s
+ ‎ ‎ ‎ ‎ ‎ - totem lasts 30s
+ ‎ ‎ ‎ ‎ ‎ - 78r
+  ‎ ‎ ‎ ‎ ‎ - *buff*- all towers in its range get 85%s, +1p, +25%r, +25% projectile speed, camo
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - wizards get 80%s instead of 85%s, +2p instead of +1p
+**MOAB Hex** ability: 60s cooldown, targets a moab and applies *hexed* status
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+ ‎ ‎ ‎ ‎ ‎ - *hexed* status- (4% + 1)d/1s, 25s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - *hexed* bloon does not spawn any children
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - if the target is popped before the time runs out *hexed* status is applied to the next strongest moab for the remaining duration
+ ‎ ‎ ‎ ‎ ‎ - follows ezili’s current targetting
+ ‎ ‎ ‎ ‎ ‎ - ∞r
+*buff*- xx4+ wizard zombloons get +1p, xx5 zmoabs and a zbfbs get +10p
+ 
+__Changes from Previous Level__
+*curse* gets +10p
+
+level 14
+45r
+*curse*- 1d, 30md, 15p, 1s, plasma, camo
+ ‎ ‎ ‎ ‎ ‎ - does 1d, 30md to the main target
+ ‎ ‎ ‎ ‎ ‎ - applies *cursed* status- 2d/1s, 30md/1s, 4.1s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - duration is refreshed when reapplied
+ ‎ ‎ ‎ ‎ ‎ - removes camo and regrow on damage
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - cannot affect D.D.T.s
+ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
+**Heartstopper** ability: 40s cooldown, regrow bloons cannot regrow and purple bloons lose immunities for 15s
+ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 5s
+ ‎ ‎ ‎ ‎ ‎ - effect lasts for 15s after ability ends but cannot affect new spawns after the original 15s
+**Sacrificial Totem** ability: 90s cooldown, removes 10 lives, spawns totem on selected spot
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 30s
+ ‎ ‎ ‎ ‎ ‎ - totem lasts 30s
+ ‎ ‎ ‎ ‎ ‎ - 78r
+  ‎ ‎ ‎ ‎ ‎ - *buff*- all towers in its range get 85%s, +1p, +25%r, +25% projectile speed, camo
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - wizards get 80%s instead of 85%s, +2p instead of +1p
+**MOAB Hex** ability: 60s cooldown, targets a moab and applies *hexed* status
+ ‎ ‎ ‎ ‎ ‎ - *hexed* status- (4% + 1)d/1s, 25s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - *hexed* bloon does not spawn any children
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - if the target is popped before the time runs out *hexed* status is applied to the next strongest moab for the remaining duration
+ ‎ ‎ ‎ ‎ ‎ - follows ezili’s current targetting
+ ‎ ‎ ‎ ‎ ‎ - ∞r
+*buff*- xx4+ wizard zombloons get +1p, xx5 zmoabs and a zbfbs get +10p
+ 
+__Changes from Previous Level__
+*cursed* status ticks every 1.8s -> every 1.0s, 5.5s -> 4.1s duration
+
+level 15
+47r
+*curse*- 1d, 30md, 15p, 1s, plasma, camo
+ ‎ ‎ ‎ ‎ ‎ - does 1d, 30md to the main target
+ ‎ ‎ ‎ ‎ ‎ - applies *cursed* status- 2d/1s, 30md/1s, 6.05s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - duration is refreshed when reapplied
+ ‎ ‎ ‎ ‎ ‎ - removes camo and regrow on damage
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - cannot affect D.D.T.s
+ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
+**Heartstopper** ability: 40s cooldown, regrow bloons cannot regrow and purple bloons lose immunities for 15s
+ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 5s
+ ‎ ‎ ‎ ‎ ‎ - effect lasts for 15s after ability ends but cannot affect new spawns after the original 15s
+**Sacrificial Totem** ability: 90s cooldown, removes 10 lives, spawns totem on selected spot
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 30s
+ ‎ ‎ ‎ ‎ ‎ - totem lasts 30s
+ ‎ ‎ ‎ ‎ ‎ - 78r
+  ‎ ‎ ‎ ‎ ‎ - *buff*- all towers in its range get 85%s, +1p, +25%r, +25% projectile speed, camo
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - wizards get 80%s instead of 85%s, +2p instead of +1p
+**MOAB Hex** ability: 60s cooldown, targets a moab and applies *hexed* status
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+ ‎ ‎ ‎ ‎ ‎ - *hexed* status- (4% + 1)d/1s, 25s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - *hexed* bloon does not spawn any children
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - if the target is popped before the time runs out *hexed* status is applied to the next strongest moab for the remaining duration
+ ‎ ‎ ‎ ‎ ‎ - follows ezili’s current targetting
+ ‎ ‎ ‎ ‎ ‎ - ∞r
+*buff*- xx4+ wizard zombloons get +1p, xx5 zmoabs and a zbfbs get +10p
+ 
+__Changes from Previous Level__
++2r
+*cursed* status gets +50% duration 
+
+level 16
+47r
+*curse*- 1d, 30md, 15p, 1s, plasma, camo
+ ‎ ‎ ‎ ‎ ‎ - does 1d, 30md to the main target
+ ‎ ‎ ‎ ‎ ‎ - applies *cursed* status- 2d/1s, 30md/1s, 6.05s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - duration is refreshed when reapplied
+ ‎ ‎ ‎ ‎ ‎ - removes camo and regrow on damage
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - cannot affect D.D.T.s
+ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
+**Heartstopper** ability: 40s cooldown, regrow bloons cannot regrow and purple bloons lose immunities for 15s
+ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 5s
+ ‎ ‎ ‎ ‎ ‎ - effect lasts for 15s after ability ends but cannot affect new spawns after the original 15s
+**Sacrificial Totem** ability: 90s cooldown, removes 1 life, spawns totem on selected spot
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 30s
+ ‎ ‎ ‎ ‎ ‎ - totem lasts 30s
+ ‎ ‎ ‎ ‎ ‎ - 78r
+  ‎ ‎ ‎ ‎ ‎ - *buff*- all towers in its range get 85%s, +1p, +25%r, +25% projectile speed, camo
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - wizards get 80%s instead of 85%s, +2p instead of +1p
+**MOAB Hex** ability: 60s cooldown, targets a moab and applies *hexed* status
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+ ‎ ‎ ‎ ‎ ‎ - *hexed* status- (4% + 1)d/1s, 25s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - *hexed* bloon does not spawn any children
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - if the target is popped before the time runs out *hexed* status is applied to the next strongest moab for the remaining duration
+ ‎ ‎ ‎ ‎ ‎ - follows ezili’s current targetting
+ ‎ ‎ ‎ ‎ ‎ - ∞r
+*buff*- xx4+ wizard zombloons get +1p, xx5 zmoabs and a zbfbs get +10p
+ 
+__Changes from Previous Level__
+**Sacrificial Totem** ability gets 10s -> 30s duration, uses 10 -> 1 lives
+
+level 17
+47r
+*curse*- 1d, 30md, 25p, 1s, plasma, camo
+ ‎ ‎ ‎ ‎ ‎ - does 1d, 30md to the main target
+ ‎ ‎ ‎ ‎ ‎ - applies *cursed* status- 2d/1s, 30md/1s, 6.05s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - duration is refreshed when reapplied
+ ‎ ‎ ‎ ‎ ‎ - removes camo and regrow on damage
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - cannot affect D.D.T.s
+ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
+**Heartstopper** ability: 40s cooldown, regrow bloons cannot regrow and purple bloons lose immunities for 15s
+ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 5s
+ ‎ ‎ ‎ ‎ ‎ - effect lasts for 15s after ability ends but cannot affect new spawns after the original 15s
+**Sacrificial Totem** ability: 90s cooldown, removes 1 life, spawns totem on selected spot
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 30s
+ ‎ ‎ ‎ ‎ ‎ - totem lasts 30s
+ ‎ ‎ ‎ ‎ ‎ - 78r
+  ‎ ‎ ‎ ‎ ‎ - *buff*- all towers in its range get 85%s, +1p, +25%r, +25% projectile speed, camo
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - wizards get 80%s instead of 85%s, +2p instead of +1p
+**MOAB Hex** ability: 60s cooldown, targets a moab and applies *hexed* status
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+ ‎ ‎ ‎ ‎ ‎ - *hexed* status- (4% + 1)d/1s, 25s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - *hexed* bloon does not spawn any children
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - if the target is popped before the time runs out *hexed* status is applied to the next strongest moab for the remaining duration
+ ‎ ‎ ‎ ‎ ‎ - follows ezili’s current targetting
+ ‎ ‎ ‎ ‎ ‎ - ∞r
+*buff*- xx4+ wizard zombloons get +1p, xx5 zmoabs and a zbfbs get +10p
+ 
+__Changes from Previous Level__
+*curse* gets +10p
+
+level 18
+47r
+*curse*- 1d, 30md, 25p, 0.8s, plasma, camo
+ ‎ ‎ ‎ ‎ ‎ - does 1d, 30md to the main target
+ ‎ ‎ ‎ ‎ ‎ - applies *cursed* status- 2d/1s, 30md/1s, 6.05s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - duration is refreshed when reapplied
+ ‎ ‎ ‎ ‎ ‎ - removes camo and regrow on damage
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - cannot affect D.D.T.s
+ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
+**Heartstopper** ability: 40s cooldown, regrow bloons cannot regrow and purple bloons lose immunities for 15s
+ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 5s
+ ‎ ‎ ‎ ‎ ‎ - effect lasts for 15s after ability ends but cannot affect new spawns after the original 15s
+**Sacrificial Totem** ability: 90s cooldown, removes 1 life, spawns totem on selected spot
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 30s
+ ‎ ‎ ‎ ‎ ‎ - totem lasts 30s
+ ‎ ‎ ‎ ‎ ‎ - 78r
+ ‎ ‎ ‎ ‎ ‎ - *buff*- all towers in its range get 85%s, +1p, +25%r, +25% projectile speed, camo
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - wizards get 80%s instead of 85%s, +2p instead of +1p
+**MOAB Hex** ability: 60s cooldown, targets a moab and applies *hexed* status
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+ ‎ ‎ ‎ ‎ ‎ - *hexed* status- (4% + 1)d/1s, 25s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - *hexed* bloon does not spawn any children
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - if the target is popped before the time runs out *hexed* status is applied to the next strongest moab for the remaining duration
+ ‎ ‎ ‎ ‎ ‎ - follows ezili’s current targetting
+ ‎ ‎ ‎ ‎ ‎ - ∞r
+*buff*- xx4+ wizard zombloons get +1p, xx5 zmoabs and a zbfbs get +10p
+ 
+__Changes from Previous Level__
+*curse* gets 80%s
+
+level 19
+47r
+*curse*- 1d, 30md, 25p, 0.8s, plasma, camo
+ ‎ ‎ ‎ ‎ ‎ - does 1d, 30md to the main target
+ ‎ ‎ ‎ ‎ ‎ - applies *cursed* status- 3d/1s, 31md/1s, 6.05s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - duration is refreshed when reapplied
+ ‎ ‎ ‎ ‎ ‎ - removes camo and regrow on damage
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - cannot affect D.D.T.s
+ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
+**Heartstopper** ability: 40s cooldown, regrow bloons cannot regrow and purple bloons lose immunities for 15s
+ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 5s
+ ‎ ‎ ‎ ‎ ‎ - effect lasts for 15s after ability ends but cannot affect new spawns after the original 15s
+**Sacrificial Totem** ability: 90s cooldown, removes 1 life, spawns totem on selected spot
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 30s
+ ‎ ‎ ‎ ‎ ‎ - totem lasts 30s
+ ‎ ‎ ‎ ‎ ‎ - 78r
+  ‎ ‎ ‎ ‎ ‎ - *buff*- all towers in its range get 85%s, +1p, +25%r, +25% projectile speed, camo
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - wizards get 80%s instead of 85%s, +2p instead of +1p
+**MOAB Hex** ability: 60s cooldown, targets a moab and applies *hexed* status
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+ ‎ ‎ ‎ ‎ ‎ - *hexed* status- (4% + 1)d/1s, 25s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - *hexed* bloon does not spawn any children
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - if the target is popped before the time runs out *hexed* status is applied to the next strongest moab for the remaining duration
+ ‎ ‎ ‎ ‎ ‎ - follows ezili’s current targetting
+ ‎ ‎ ‎ ‎ ‎ - ∞r
+*buff*- xx4+ wizard zombloons get +1p, xx5 zmoabs and a zbfbs get +10p
+ 
+__Changes from Previous Level__
+*cursed* status gets 2d/1s, 30md/1s -> 3d/1s, 31md/1s
+
+level 20
+47r
+*curse*- 1d, 50md, 25p, 0.8s, plasma, camo
+ ‎ ‎ ‎ ‎ ‎ - does 1d, 50md to the main target
+ ‎ ‎ ‎ ‎ ‎ - applies *cursed* status- 3d/1s, 31md/1s, 6.05s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - duration is refreshed when reapplied
+ ‎ ‎ ‎ ‎ ‎ - removes camo and regrow on damage
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - cannot affect D.D.T.s
+ ‎ ‎ ‎ ‎ ‎ - removes fortified property from leads and ceramics
+**Heartstopper** ability: 40s cooldown, regrow bloons cannot regrow and purple bloons lose immunities for 15s
+ ‎ ‎ ‎ ‎ ‎ - existing cooldown reduced by 5s
+ ‎ ‎ ‎ ‎ ‎ - effect lasts for 15s after ability ends but cannot affect new spawns after the original 15s
+**Sacrificial Totem** ability: 90s cooldown, removes 1 life, spawns totem on selected spot
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 30s
+ ‎ ‎ ‎ ‎ ‎ - totem lasts 30s
+ ‎ ‎ ‎ ‎ ‎ - 78r
+  ‎ ‎ ‎ ‎ ‎ - *buff*- all towers in its range get 85%s, +1p, +25%r, +25% projectile speed, camo
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - wizards get 80%s instead of 85%s, +2p instead of +1p
+**MOAB Hex** ability: 40s cooldown, targets a moab and applies *hexed* status
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+ ‎ ‎ ‎ ‎ ‎ - *hexed* status- (5% + 1)d/1s, 25s duration
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - *hexed* bloon does not spawn any children
+ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ - if the target is popped before the time runs out *hexed* status is applied to the next strongest moab for the remaining duration
+ ‎ ‎ ‎ ‎ ‎ - follows ezili’s current targetting
+ ‎ ‎ ‎ ‎ ‎ - ∞r
+ ‎ ‎ ‎ ‎ ‎ - can affect B.A.D.s
+*buff*- xx4+ wizard zombloons get +1p, xx5 zmoabs and a zbfbs get +10p
+ 
+__Changes from Previous Level__
+*curse* gets +20md 
+**MOAB Hex** ability gets 60s -> 40s cooldown
+*hexed* status gets (4% + 1)d/1s -> (5% + 1)d/1s, can affect B.A.D.s
+
+all levels
+__**Cost**: $600 (med), $650 (hard)  |  **XP Curve: 1.425x__
+LVL 1 - has *curse* attack
+LVL 2 - +3r (43)
+LVL 3 - **Heartstopper** ability added
+LVL 4 - *curse* applies an additional 1d to the main target  ♦️  *cursed* status is applied to all targets
+LVL 5 - *curse* gets 83.33%s (1.0s)
+LVL 6 - *cursed* status gets 1d/2.5s -> 1d/1.8s, 2.6s -> 5.5s duration
+LVL 7 - **Sacrificial Totem** ability added
+LVL 8 - *curse* gets +19md (20)  ♦️  *cursed* status gets +1d (2), +29md (30)
+LVL 9 - *curse* removes camo, regrow, and fortified
+LVL 10 - **MOAB Hex** ability added
+LVL 11 - +2r (45)  ♦️  adds *buff* to zombloons and zomblimps [zombloon +1p | zomblimp +10p]
+LVL 12 - *curse* gets +10md (30)  ♦️  Heartstopper ability gets 45s -> 40s cooldown, 10s -> 15s duration
+LVL 13 - *curse* gets +10p (15)
+LVL 14 - *cursed* status ticks every 1.8s -> every 1.0s, 5.5s -> 4.1s duration
+LVL 15 - +2r (47)  ♦️  *cursed* status gets +50% duration (6.05s)
+LVL 16 - Sacrificial Totem ability gets 10s -> 30s duration, uses 10 -> 1 lives
+LVL 17 - *curse* gets +10p (25)
+LVL 18 - *curse* gets 80%s (0.8s)
+LVL 19 - *cursed* status gets +1d (3d/1s, 31md/1s)
+LVL 20 - *curse* gets +20md (50)  ♦️  MOAB Hex ability gets 60s -> 40s cooldown  ♦️  *hexed* status gets (4% + 1)d/1s -> (5% + 1)d/1s, can affect B.A.D.s
