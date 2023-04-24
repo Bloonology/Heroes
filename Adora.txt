@@ -1,0 +1,337 @@
+level 1
+45r
+*bolt*- 1d, 5p, 1.0s, plasma
+ 
+XP Curve: 1.71
+footprint radius: 7 (medium)
+ 
+**cost**
+850 - easy
+1000 - medium
+1080 - hard
+1200 - impoppable
+
+level 2
+49r
+*bolt*- 1d, 5p, 1.0s, plasma
+ 
+__Changes from Previous Level__
++4r
+
+level 3
+49r
+*bolt*- 1d, 5p, 1.0s, plasma
+**Long Arm of Light** ability: 35s cooldown, *bolt* stats become 98r, 1d, 10p, 1.0s, normal for 10s
+     ‎ ‎ ‎ ‎ - initial cooldown of 11.67s
+ 
+__Changes from Previous Level__
+**Long Arm of Light** ability added
+
+level 4
+49r
+*bolt*- 1d, 5p, 1.0s, 2j, plasma
+**Long Arm of Light** ability: 35s cooldown, *bolt* stats become 98r, 1d, 10p, 1.0s, 2j, normal for 10s
+     ‎ ‎ ‎ ‎ - initial cooldown of 11.67s
+ 
+__Changes from Previous Level__
+*bolt* gets +1j
+
+level 5
+49r
+*bolt*- 1d, 8p, 1.0s, 2j, plasma
+**Long Arm of Light** ability: 35s cooldown, *bolt* stats become 98r, 1d, 16p, 1.0s, 2j, normal for 10s
+     ‎ ‎ ‎ ‎ - initial cooldown of 11.67s
+ 
+__Changes from Previous Level__
+*bolt* gets +3p
+
+level 6
+49r
+*bolt*- 1d, 8p, 1.0s, 3j, plasma
+**Long Arm of Light** ability: 35s cooldown, *bolt* stats become 98r, 1d, 16p, 1.0s, 3j, normal for 10s
+     ‎ ‎ ‎ ‎ - initial cooldown of 11.67s
+ 
+__Changes from Previous Level__
+*bolt* gets +1j
+
+level 7
+49r
+*bolt*- 1d, 8p, 1.0s, 3j, plasma
+**Long Arm of Light** ability: 35s cooldown, *bolt* stats become 98r, 1d, 16p, 1.0s, 3j, normal for 10s
+     ‎ ‎ ‎ ‎ - initial cooldown of 11.67s
+**Blood Sacrifice** ability: 10s cooldown, sacrifices a chosen tower and spends 4x the cost of that tower on hero leveling
+     ‎ ‎ ‎ ‎ - initial cooldown of 3.33s
+     ‎ ‎ ‎ ‎ - gives adora and all 3+xx supers in range +10%r and 90%s for 10s
+     ‎ ‎ ‎ ‎ - buff gets 1% better for every $100 sacrificed, caps at +25%r and 75%s
+ 
+__Changes from Previous Level__
+**Blood Sacrifice** ability added
+
+level 8
+49r
+*bolt*- 1d, 8p, 1.0s, 4j, plasma
+**Long Arm of Light** ability: 35s cooldown, *bolt* stats become 98r, 1d, 16p, 1.0s, 4j, normal for 10s
+     ‎ ‎ ‎ ‎ - initial cooldown of 11.67s
+**Blood Sacrifice** ability: 10s cooldown, sacrifices a chosen tower and spends 4x the cost of that tower on hero leveling
+     ‎ ‎ ‎ ‎ - gives adora and all 3+xx supers in range +10%r and 90%s for 10s
+     ‎ ‎ ‎ ‎ - buff gets 1% better for every $100 sacrificed, caps at +25%r and 75%s
+ 
+__Changes from Previous Level__
+*bolt* gets +1j
+
+level 9
+54r
+*bolt*- 1d, +1fd (2), 8p, 1.0s, 4j, plasma
+**Long Arm of Light** ability: 35s cooldown, *bolt* stats become 108r, 1d, +1fd (2), 16p, 1.0s, 4j, normal for 10s
+     ‎ ‎ ‎ ‎ - initial cooldown of 11.67s
+**Blood Sacrifice** ability: 10s cooldown, sacrifices a chosen tower and spends 4x the cost of that tower on hero leveling
+     ‎ ‎ ‎ ‎ - initial cooldown of 3.33s
+     ‎ ‎ ‎ ‎ - gives adora and all 3+xx supers in range +10%r and 90%s for 10s
+     ‎ ‎ ‎ ‎ - buff gets 1% better for every $100 sacrificed, caps at +25%r and 75%s
+ 
+__Changes from Previous Level__
++5r
+*bolt* gets +1fd (2)
+
+level 10
+54r
+*bolt*- 1d, +1fd (2), 8p, 1.0s, 4j, plasma
+**Long Arm of Light** ability: 35s cooldown, *bolt* stats become 108r, 1d, +1fd (2), 16p, 1.0s, 4j, normal for 10s
+     ‎ ‎ ‎ ‎ - initial cooldown of 11.67s
+**Blood Sacrifice** ability: 10s cooldown, sacrifices a chosen tower and spends 4x the cost of that tower on hero leveling
+     ‎ ‎ ‎ ‎ - initial cooldown of 3.33s
+     ‎ ‎ ‎ ‎ - gives adora and all 3+xx supers in range +10%r and 90%s for 10s
+     ‎ ‎ ‎ ‎ - buff gets 1% better for every $100 sacrificed, caps at +25%r and 75%s
+**Ball of Light** ability: 60s cooldown, spawns *ball-of-light* subtower
+     ‎ ‎ ‎ ‎ - initial cooldown of 20s
+     ‎ ‎ ‎ ‎ - *ball-of-light* lasts 12s
+   ‎ ‎ ‎ ‎  ∞r
+     ‎ ‎ ‎ ‎ - *beam*- 3d, +3fd (6), 8p, 0.05s, plasma
+   ‎ ‎ ‎ ‎       ‎ ‎ ‎ ‎ - (the *beam* itself is an attack which can run out of pierce before reaching its target)
+ 
+__Changes from Previous Level__
+**Ball of Light** ability added
+
+level 11
+54r
+*bolt*- 1d, +1fd (2), 8p, 0.8s, 4j, plasma
+**Long Arm of Light** ability: 35s cooldown, *bolt* stats become 108r, 1d, +1fd (2), 16p, 0.8s, 4j, normal for 10s
+     ‎ ‎ ‎ ‎ - initial cooldown of 11.67s
+**Blood Sacrifice** ability: 10s cooldown, sacrifices a chosen tower and spends 4x the cost of that tower on hero leveling
+     ‎ ‎ ‎ ‎ - initial cooldown of 3.33s
+     ‎ ‎ ‎ ‎ - gives adora and all 3+xx supers in range +10%r and 90%s for 10s
+     ‎ ‎ ‎ ‎ - buff gets 1% better for every $100 sacrificed, caps at +25%r and 75%s
+**Ball of Light** ability: 60s cooldown, spawns *ball-of-light* subtower
+     ‎ ‎ ‎ ‎ - initial cooldown of 20s
+     ‎ ‎ ‎ ‎ - *ball-of-light* lasts 12s
+     ‎ ‎ ‎ ‎ - ∞r
+     ‎ ‎ ‎ ‎ - *beam*- 3d, +3fd (6), 8p, 0.05s, plasma
+   ‎ ‎ ‎ ‎       ‎ ‎ ‎ ‎ - (the *beam* itself is an attack which can run out of pierce before reaching its target)
+ 
+__Changes from Previous Level__
+*bolt* gets 80%s
+
+level 12
+54r
+*bolt*- 1d, +1fd (2), 8p, 0.8s, 5j, plasma
+**Long Arm of Light** ability: 35s cooldown, *bolt* stats become 108r, 1d, +1fd (2), 16p, 0.8s, 5j, normal for 10s
+     ‎ ‎ ‎ ‎ - initial cooldown of 11.67s
+**Blood Sacrifice** ability: 10s cooldown, sacrifices a chosen tower and spends 4x the cost of that tower on hero leveling
+     ‎ ‎ ‎ ‎ - initial cooldown of 3.33s
+     ‎ ‎ ‎ ‎ - gives adora and all 3+xx supers in range +10%r and 90%s for 10s
+     ‎ ‎ ‎ ‎ - buff gets 1% better for every $100 sacrificed, caps at +25%r and 75%s
+**Ball of Light** ability: 60s cooldown, spawns *ball-of-light* subtower
+     ‎ ‎ ‎ ‎ - initial cooldown of 20s
+     ‎ ‎ ‎ ‎ - *ball-of-light* lasts 12s
+     ‎ ‎ ‎ ‎ - ∞r
+     ‎ ‎ ‎ ‎ - *beam*- 3d, +3fd (6), 8p, 0.05s, plasma
+   ‎ ‎ ‎ ‎       ‎ ‎ ‎ ‎ - (the *beam* itself is an attack which can run out of pierce before reaching its target)
+ 
+__Changes from Previous Level__
+*bolt* gets +1j
+
+level 13
+54r
+*bolt*- 1d, +2fd (3), 13p, 0.8s, 5j, plasma
+**Long Arm of Light** ability: 35s cooldown, *bolt* stats become 108r, 1d, +2fd (3), 26p, 0.8s, 5j, normal for 10s
+     ‎ ‎ ‎ ‎ - initial cooldown of 11.67s
+**Blood Sacrifice** ability: 10s cooldown, sacrifices a chosen tower and spends 4x the cost of that tower on hero leveling
+     ‎ ‎ ‎ ‎ - initial cooldown of 3.33s
+     ‎ ‎ ‎ ‎ - gives adora and all 3+xx supers in range +10%r and 90%s for 10s
+     ‎ ‎ ‎ ‎ - buff gets 1% better for every $100 sacrificed, caps at +25%r and 75%s
+**Ball of Light** ability: 60s cooldown, spawns *ball-of-light* subtower
+     ‎ ‎ ‎ ‎ - initial cooldown of 20s
+     ‎ ‎ ‎ ‎ - *ball-of-light* lasts 12s
+     ‎ ‎ ‎ ‎ - ∞r
+     ‎ ‎ ‎ ‎ - *beam*- 3d, +3fd (6), 13p, 0.05s, plasma
+   ‎ ‎ ‎ ‎       ‎ ‎ ‎ ‎ - (the *beam* itself is an attack which can run out of pierce before reaching its target)
+ 
+__Changes from Previous Level__
+*bolt* gets +5p, +1fd (4)
+*ball-of-light* gets +5p
+
+level 14
+54r
+*bolt*- 1d, +2fd (3), 13p, 0.8s, 6j, plasma
+**Long Arm of Light** ability: 35s cooldown, *bolt* stats become 108r, 1d, +2fd (3), 26p, 0.8s, 6j, normal for 10s
+     ‎ ‎ ‎ ‎ - initial cooldown of 11.67s
+**Blood Sacrifice** ability: 10s cooldown, sacrifices a chosen tower and spends 4x the cost of that tower on hero leveling
+     ‎ ‎ ‎ ‎ - initial cooldown of 3.33s
+     ‎ ‎ ‎ ‎ - gives adora and all 3+xx supers in range +10%r and 90%s for 10s
+     ‎ ‎ ‎ ‎ - buff gets 1% better for every $100 sacrificed, caps at +25%r and 75%s
+**Ball of Light** ability: 60s cooldown, spawns *ball-of-light* subtower
+     ‎ ‎ ‎ ‎ - initial cooldown of 20s
+     ‎ ‎ ‎ ‎ - *ball-of-light* lasts 12s
+     ‎ ‎ ‎ ‎ - ∞r
+     ‎ ‎ ‎ ‎ - *beam*- 3d, +3fd (6), 13p, 0.05s, plasma
+   ‎ ‎ ‎ ‎       ‎ ‎ ‎ ‎ - (the *beam* itself is an attack which can run out of pierce before reaching its target)
+ 
+__Changes from Previous Level__
+*bolt* gets +1j
+
+level 15
+54r
+*bolt*- 2d, +2fd (4), 13p, 0.8s, 6j, plasma
+**Long Arm of Light** ability: 35s cooldown, *bolt* stats become 108r, 2d, +2fd (4), 26p, 0.8s, 6j, normal for 10s
+     ‎ ‎ ‎ ‎ - initial cooldown of 11.67s
+**Blood Sacrifice** ability: 10s cooldown, sacrifices a chosen tower and spends 4x the cost of that tower on hero leveling
+     ‎ ‎ ‎ ‎ - initial cooldown of 3.33s
+     ‎ ‎ ‎ ‎ - gives adora and all 3+xx supers in range +10%r and 90%s for 10s
+     ‎ ‎ ‎ ‎ - buff gets 1% better for every $100 sacrificed, caps at +25%r and 75%s
+**Ball of Light** ability: 60s cooldown, spawns *ball-of-light* subtower
+     ‎ ‎ ‎ ‎ - initial cooldown of 20s
+     ‎ ‎ ‎ ‎ - *ball-of-light* lasts 12s
+     ‎ ‎ ‎ ‎ - ∞r
+     ‎ ‎ ‎ ‎ - *beam*- 5d, +5fd (10), 13p, 0.05s, plasma
+   ‎ ‎ ‎ ‎       ‎ ‎ ‎ ‎ - (the *beam* itself is an attack which can run out of pierce before reaching its target)
+ 
+__Changes from Previous Level__
+*bolt* gets +1d
+*ball-of-light* gets +2d, +2fd (10)
+
+level 16
+54r
+*bolt*- 2d, +2fd (4), 13p, 0.8s, 6j, plasma
+**Long Arm of Light** ability: 35s cooldown, *bolt* stats become 108r, 4d, +4fd (8), 26p, 0.8s, 6j, normal for 15s
+     ‎ ‎ ‎ ‎ - initial cooldown of 11.67s
+**Blood Sacrifice** ability: 10s cooldown, sacrifices a chosen tower and spends 4x the cost of that tower on hero leveling
+     ‎ ‎ ‎ ‎ - initial cooldown of 3.33s
+     ‎ ‎ ‎ ‎ - gives adora and all 3+xx supers in range +10%r and 90%s for 10s
+     ‎ ‎ ‎ ‎ - buff gets 1% better for every $100 sacrificed, caps at +25%r and 75%s
+**Ball of Light** ability: 60s cooldown, spawns *ball-of-light* subtower
+     ‎ ‎ ‎ ‎ - initial cooldown of 20s
+     ‎ ‎ ‎ ‎ - *ball-of-light* lasts 12s
+     ‎ ‎ ‎ ‎ - ∞r
+     ‎ ‎ ‎ ‎ - *beam*- 5d, +5fd (10), 13p, 0.05s, plasma
+   ‎ ‎ ‎ ‎       ‎ ‎ ‎ ‎ - (the *beam* itself is an attack which can run out of pierce before reaching its target)
+ 
+__Changes from Previous Level__
+**Long Arm of Light** ability gets 10s -> 15s duration, now increases damage
+
+level 17
+54r
+*bolt*- 2d, +2fd (4), 13p, 0.6s, 6j, plasma
+**Long Arm of Light** ability: 35s cooldown, *bolt* stats become 108r, 4d, +4fd (8) 26p, 0.6s, 6j, normal for 15s
+     ‎ ‎ ‎ ‎ - initial cooldown of 11.67s
+**Blood Sacrifice** ability: 10s cooldown, sacrifices a chosen tower and spends 4x the cost of that tower on hero leveling
+     ‎ ‎ ‎ ‎ - initial cooldown of 3.33s
+     ‎ ‎ ‎ ‎ - gives adora and all 3+xx supers in range +10%r and 90%s for 10s
+     ‎ ‎ ‎ ‎ - buff gets 1% better for every $100 sacrificed, caps at +25%r and 75%s
+**Ball of Light** ability: 60s cooldown, spawns *ball-of-light* subtower
+     ‎ ‎ ‎ ‎ - initial cooldown of 20s
+     ‎ ‎ ‎ ‎ - *ball-of-light* lasts 12s
+     ‎ ‎ ‎ ‎ - ∞r
+     ‎ ‎ ‎ ‎ - *beam*- 5d, +5fd (10), 13p, 0.05s, plasma
+   ‎ ‎ ‎ ‎       ‎ ‎ ‎ ‎ - (the *beam* itself is an attack which can run out of pierce before reaching its target)
+ 
+__Changes from Previous Level__
+*bolt* gets 75%s
+
+level 18
+54r
+*bolt*- 2d, +2fd (4), 13p, 0.6s, 8j, plasma
+**Long Arm of Light** ability: 35s cooldown, *bolt* stats become 108r, 4d, +4fd (8), 26p, 0.6s, 8j, normal for 15s
+     ‎ ‎ ‎ ‎ - initial cooldown of 11.67s
+**Blood Sacrifice** ability: 10s cooldown, sacrifices a chosen tower and spends 4x the cost of that tower on hero leveling
+     ‎ ‎ ‎ ‎ - initial cooldown of 3.33s
+     ‎ ‎ ‎ ‎ - gives adora and all 3+xx supers in range +10%r and 90%s for 10s
+     ‎ ‎ ‎ ‎ - buff gets 1% better for every $100 sacrificed, caps at +25%r and 75%s
+**Ball of Light** ability: 60s cooldown, spawns *ball-of-light* subtower
+     ‎ ‎ ‎ ‎ - initial cooldown of 20s
+     ‎ ‎ ‎ ‎ - *ball-of-light* lasts 12s
+     ‎ ‎ ‎ ‎ - ∞r
+     ‎ ‎ ‎ ‎ - *beam*- 5d, +5fd (10), 13p, 0.05s, plasma
+   ‎ ‎ ‎ ‎       ‎ ‎ ‎ ‎ - (the *beam* itself is an attack which can run out of pierce before reaching its target)
+ 
+__Changes from Previous Level__
+*bolt* gets +2j
+
+level 19
+59r
+*bolt*- 2d, +3fd (5), 13p, 0.6s, 8j, plasma
+**Long Arm of Light** ability: 35s cooldown, *bolt* stats become 118r, 4d, +6fd (10), 26p, 0.6s, 8j, normal for 15s
+     ‎ ‎ ‎ ‎ - initial cooldown of 11.67s
+**Blood Sacrifice** ability: 10s cooldown, sacrifices a chosen tower and spends 4x the cost of that tower on hero leveling
+     ‎ ‎ ‎ ‎ - initial cooldown of 3.33s
+     ‎ ‎ ‎ ‎ - gives adora and all 3+xx supers in range +10%r and 90%s for 10s
+     ‎ ‎ ‎ ‎ - buff gets 1% better for every $100 sacrificed, caps at +25%r and 75%s
+**Ball of Light** ability: 60s cooldown, spawns *ball-of-light* subtower
+     ‎ ‎ ‎ ‎ - initial cooldown of 20s
+     ‎ ‎ ‎ ‎ - *ball-of-light* lasts 12s
+     ‎ ‎ ‎ ‎ - ∞r
+     ‎ ‎ ‎ ‎ - *beam*- 5d, +5fd (10), 13p, 0.05s, plasma
+   ‎ ‎ ‎ ‎       ‎ ‎ ‎ ‎ - (the *beam* itself is an attack which can run out of pierce before reaching its target)
+ 
+__Changes from Previous Level__
++5r
+*bolt* gets +1fd (5)
+
+level 20
+59r
+*bolt*- 2d, +3fd (5), 13p, 0.6s, 8j, plasma
+**Long Arm of Light** ability: 35s cooldown, *bolt* stats become 118r, 4d, +6fd (10), 26p, 0.6s, 8j, normal for 15s
+     ‎ ‎ ‎ ‎ - initial cooldown of 11.67s
+**Blood Sacrifice** ability: 10s cooldown, sacrifices a chosen tower and spends 4x the cost of that tower on hero leveling
+     ‎ ‎ ‎ ‎ - initial cooldown of 3.33s
+     ‎ ‎ ‎ ‎ - gives adora and all 3+xx supers in range +10%r and 90%s for 60s
+     ‎ ‎ ‎ ‎ - buff gets 1% better for every $50 sacrificed, caps at +50%r and 50%s
+**Ball of Light** ability: 60s cooldown, spawns *ball-of-light* subtower
+     ‎ ‎ ‎ ‎ - initial cooldown of 20s
+     ‎ ‎ ‎ ‎ - *ball-of-light* lasts 20s
+     ‎ ‎ ‎ ‎ - ∞r
+     ‎ ‎ ‎ ‎ - *beam*- 20d, +20fd (40), 13p, 0.05s, normal
+   ‎ ‎ ‎ ‎       ‎ ‎ ‎ ‎ - (the *beam* itself is an attack which can run out of pierce before reaching its target)
+ 
+**__True Form__**: Obtainable when purchasing a True Sun God in range of a Level 20 Adora
+     ‎ ‎ ‎ ‎- *bolt* gets +8d (10), +30p (43)
+    ‎ ‎ ‎ ‎ - **Long Arm of Light** ability has 20d, 86p instead
+     ‎ ‎ ‎ ‎- **Ball of Light** gets +80d (100, 120fd), +35p (48)
+ 
+__Changes from Previous Level__
+**Blood Sacrifice** ability gets 10s -> 60s duration, cost per 1% improvement $100 -> $50, maximum buff possible doubled
+**Ball of Light** ability gets 12s -> 20s duration
+*ball-of-light* gets +15d, +15fd (40), damage type plasma -> normal
+unlocks her True Form 
+
+all levels
+__**Cost**: $1,000 (med), $1,080 (hard)  |  **XP Curve**: 1.71x__
+LVL 1 - has *bolt* attack
+LVL 2 - +4r (49)
+LVL 3 - **Long Arm of Light** ability added
+LVL 4 - *bolt* gets +1j (2)
+LVL 5 - *bolt* gets +3p (8)
+LVL 6 - *bolt* gets +1j (3)
+LVL 7 - **Blood Sacrifice** ability added
+LVL 8 - *bolt* gets +1j (4)
+LVL 9 - +5r (54)  ♦️  *bolt* gets +1fd (2)
+LVL 10 - **Ball of Light** ability added
+LVL 11 - *bolt* gets 80%s (0.8s)
+LVL 12 - *bolt* gets +1j (5)
+LVL 13 - *bolt* gets +5p (13), +1fd (3)  ♦️  *ball-of-light* gets +5p (13)
+LVL 14 - *bolt* gets +1j (6)
+LVL 15 - *bolt* gets +1d (2, 4fd)  ♦️  *ball-of-light* gets +2d (5), +2fd (10)
+LVL 16 - Long Arm of Light ability gets 10s -> 15s duration, now doubles damage
+LVL 17 - *bolt* gets 75%s (0.6s)
+LVL 18 - *bolt* gets +2j (8)
+LVL 19 - +5r (59)  ♦️  *bolt* gets +1fd (5) 
+LVL 20 - **Blood Sacrifice** ability gets 10s -> 60s duration, cost per 1% improvement $100 -> $50, maximum buff possible doubled  ♦️  **Ball of Light** ability gets 12s -> 20s duration  ♦️  *ball-of-light* gets +15d (20), +15fd (40), damage type plasma -> normal  ♦️  unlocks her True Form 
