@@ -1,0 +1,474 @@
+level 1
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
+*psychic*- 1s, energy, targets a bloon and fully destroys it
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is 0.2s per layer
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can’t take longer than 15s to kill
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the 1s cooldown between attacks does not begin until the target bloon is fully destroyed
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target purples, ceramics, or moabs
+ 
+XP Curve: 1.5
+footprint radius: 7 (medium)
+ 
+**cost**
+850 - easy
+1000 - medium
+1080 - hard
+1200 - impoppable
+
+level 2
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
+*psychic*- 1s, energy, targets a bloon and fully destroys it
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is 0.15s per layer
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can’t take longer than 15s to kill
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the 1s cooldown between attacks does not begin until the target bloon is fully destroyed
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target purples, ceramics, or moabs
+ 
+__Changes from Previous Level__
+*psychic* kill time 0.2s -> 0.15s
+
+level 3
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
+*psychic*- 1s, energy, targets a bloon and fully destroys it
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is 0.15s per layer
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can’t take longer than 15s to kill
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the 0.85s cooldown between attacks does not begin until the target bloon is fully destroyed
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target purples, ceramics, or moabs
+**Psychic Blast** ability: 40s cooldown, stuns up to 50 bloons for 6s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 13.33s
+‎ ‎ ‎ ‎ ‎ ‎ - 70r
+‎ ‎ ‎ ‎ ‎ ‎ - moabs are stunned for 1.5s
+ 
+__Changes from Previous Level__
+**Psychic Blast** ability added
+
+level 4
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
+*psychic*- 1s, energy, targets a bloon and fully destroys it
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is 0.15s per layer
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can’t take longer than 15s to kill
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the 1s cooldown between attacks does not begin until the target bloon is fully destroyed
+‎ ‎ ‎ ‎ ‎ ‎ - can splash to affect a nearby bloon
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target purples, ceramics, or moabs
+**Psychic Blast** ability: 40s cooldown, stuns up to 50 bloons for 6s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 13.33s
+‎ ‎ ‎ ‎ ‎ ‎ - 70r
+‎ ‎ ‎ ‎ ‎ ‎ - moabs are stunned for 1.5s
+ 
+__Changes from Previous Level__
+*psychic* can splash to affect 1 nearby bloon
+
+level 5
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
+*psychic*- 0.85s, energy, targets a bloon and fully destroys it
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is 0.15s per layer
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can’t take longer than 15s to kill
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the 0.85s cooldown between attacks does not begin until the target bloon is fully destroyed
+‎ ‎ ‎ ‎ ‎ ‎ - can splash to affect a 2nd nearby bloons
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target purples, ceramics, or moabs
+**Psychic Blast** ability: 40s cooldown, stuns up to 50 bloons for 6s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 13.33s
+‎ ‎ ‎ ‎ ‎ ‎ - 70r
+‎ ‎ ‎ ‎ ‎ ‎ - moabs are stunned for 1.5s
+ 
+__Changes from Previous Level__
+*psychic* gets 85%s (0.85s)
+
+level 6
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
+*psychic*- 0.85s, plasma, targets a bloon and fully destroys it
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is 0.15s per layer
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can’t take longer than 15s to kill
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the 0.85s cooldown between attacks does not begin until the target bloon is fully destroyed
+‎ ‎ ‎ ‎ ‎ ‎ - can splash to affect up to 3 nearby bloons
+ ‎ ‎ ‎ ‎ ‎ ‎ - cannot target purples, ceramics, or moabs
+**Psychic Blast** ability: 40s cooldown, stuns up to 50 bloons for 6s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 13.33s
+‎ ‎ ‎ ‎ ‎ ‎ - 70r
+‎ ‎ ‎ ‎ ‎ ‎ - moabs are stunned for 1.5s
+ 
+__Changes from Previous Level__
+*psychic* can affect up to 3 bloons, energy -> plasma type
+
+level 7
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
+*psychic*- 0.85s, plasma, targets a bloon and fully destroys it
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is 0.15s per layer
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - takes twice as long on super ceramics
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can’t take longer than 15s to kill
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the 0.85s cooldown between attacks does not begin until the target bloon is fully destroyed
+‎ ‎ ‎ ‎ ‎ ‎ - can splash to affect up to 3 nearby bloons
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target purples or moabs
+**Psychic Blast** ability: 40s cooldown, stuns up to 100 bloons for 6s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 13.33s
+‎ ‎ ‎ ‎ ‎ ‎ - 70r
+‎ ‎ ‎ ‎ ‎ ‎ - moabs are stunned for 1.5s
+‎ ‎ ‎ ‎ ‎ ‎ - triggers again after 2s
+ 
+__Changes from Previous Level__
+*psychic* can target ceramics
+**Psychic Blast** gets +50p and triggers again after 2s
+
+level 8
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
+*psychic*- 0.85s, plasma, targets a bloon and fully destroys it
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is 0.15s per layer
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - takes twice as long on super ceramics
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can’t take longer than 15s to kill
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the 0.85s cooldown between attacks does not begin until the target bloon is fully destroyed
+‎ ‎ ‎ ‎ ‎ ‎ - can splash to affect up to 3 nearby bloons
+‎ ‎ ‎ ‎ ‎ ‎ - popped bloons create an *explosion*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1d, 10p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target purples or moabs
+**Psychic Blast** ability: 40s cooldown, stuns up to 100 bloons for 6s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 13.33s
+‎ ‎ ‎ ‎ ‎ ‎ - 70r
+‎ ‎ ‎ ‎ ‎ ‎ - moabs are stunned for 1.5s
+‎ ‎ ‎ ‎ ‎ ‎ - triggers again after 2s
+ 
+__Changes from Previous Level__
+*psychic* creates an *explosion*
+
+level 9
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
+*psychic*- 0.85s, plasma, targets a bloon and fully destroys it
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is 0.15s per layer
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - takes twice as long on super ceramics
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can’t take longer than 15s to kill
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the 0.85s cooldown between attacks does not begin until the target bloon is fully destroyed
+‎ ‎ ‎ ‎ ‎ ‎ - can splash to affect up to 3 nearby bloons
+‎ ‎ ‎ ‎ ‎ ‎ - popped bloons create an *explosion*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1d, 10p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target purples or moabs
+*psychic2*- the same as *psychic*, but has elite targeting permanently
+**Psychic Blast** ability: 40s cooldown, stuns up to 100 bloons for 6s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 13.33s
+‎ ‎ ‎ ‎ ‎ ‎ - 70r
+‎ ‎ ‎ ‎ ‎ ‎ - moabs are stunned for 1.5s
+‎ ‎ ‎ ‎ ‎ ‎ - triggers again after 2s
+ 
+__Changes from Previous Level__
+*psychic2* attack added
+
+level 10
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
+*psychic*- 0.85s, plasma, targets a bloon and fully destroys it
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is 0.15s per layer
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - takes twice as long on super ceramics
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can’t take longer than 15s to kill
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the 0.85s cooldown between attacks does not begin until the target bloon is fully destroyed
+‎ ‎ ‎ ‎ ‎ ‎ - can splash to affect up to 3 nearby bloons
+‎ ‎ ‎ ‎ ‎ ‎ - popped bloons create an *explosion*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1d, 10p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target purples or moabs
+*psychic2*- the same as *psychic*, but has elite targeting permanently
+**Psychic Blast** ability: 40s cooldown, stuns up to 100 bloons for 6s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 13.33s
+‎ ‎ ‎ ‎ ‎ ‎ - 70r
+‎ ‎ ‎ ‎ ‎ ‎ - moabs are stunned for 1.5s
+‎ ‎ ‎ ‎ ‎ ‎ - triggers again after 2s
+**Psionic Scream** ability: 60s cooldown, targets 2000 bloons and has a 50% chance on each individual bloon to either attack them with *psychic* or send them back 50-300 units
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot affect purples or moabs
+ 
+__Changes from Previous Level__
+**Psionic Scream** ability added
+
+
+level 11
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
+*psychic*- 0.85s, plasma, targets a bloon and fully destroys it
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is 0.1s per layer
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - takes twice as long on super ceramics
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can’t take longer than 15s to kill
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the 0.85s cooldown between attacks does not begin until the target bloon is fully destroyed
+‎ ‎ ‎ ‎ ‎ ‎ - can splash to affect up to 4 nearby bloons
+‎ ‎ ‎ ‎ ‎ ‎ - popped bloons create an *explosion*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1d, 10p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target purples or moabs
+*psychic2*- the same as *psychic*, but has elite targeting permanently
+**Psychic Blast** ability: 40s cooldown, stuns up to 100 bloons for 6s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 13.33s
+‎ ‎ ‎ ‎ ‎ ‎ - 70r
+‎ ‎ ‎ ‎ ‎ ‎ - moabs are stunned for 1.5s
+‎ ‎ ‎ ‎ ‎ ‎ - triggers again after 2s
+**Psionic Scream** ability: 60s cooldown, targets 2000 bloons and has a 50% chance on each individual bloon to either attack them with *psychic* or send them back 50-300 units
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot affect purples or moabs
+ 
+__Changes from Previous Level__
+*psychic* can affect up to 4 bloons, kill time 0.15s -> 0.1s
+
+level 12
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
+*psychic*- 0.85s, plasma, targets a bloon and fully destroys it
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is 0.1s per layer
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - takes twice as long on super ceramics
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can’t take longer than 15s to kill
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the 0.85s cooldown between attacks does not begin until the target bloon is fully destroyed
+‎ ‎ ‎ ‎ ‎ ‎ - can splash to affect up to 4 nearby bloons
+‎ ‎ ‎ ‎ ‎ ‎ - popped bloons create an *explosion*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1d, 10p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target purples or moabs
+*psychic2*- the same as *psychic*, but has elite targeting permanently
+**Psychic Blast** ability: 40s cooldown, stuns up to 100 bloons for 6s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 13.33s
+‎ ‎ ‎ ‎ ‎ ‎ - 70r
+‎ ‎ ‎ ‎ ‎ ‎ - moabs are stunned for 1.5s
+‎ ‎ ‎ ‎ ‎ ‎ - triggers again after 2s and a third time after 4s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (the 4s wait time after the 3rd ability is in reference to using the original ability)
+psionicstream ability- 60s cooldown, targets 2000 bloons and has a 50% chance on each individual bloon to either attack them with *psychic* or send them back 50-300 units
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot affect purples or moabs
+ 
+__Changes from Previous Level__
+**Psychic Blast** triggers a third time
+
+level 13
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
+*psychic*- 0.85s, normal, targets a bloon and fully destroys it
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is 0.1s per layer
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can’t take longer than 15s to kill
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - takes twice as long on super ceramics
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the 0.85s cooldown between attacks does not begin until the target bloon is fully destroyed
+‎ ‎ ‎ ‎ ‎ ‎ - can splash to affect up to 4 nearby bloons
+‎ ‎ ‎ ‎ ‎ ‎ - popped bloons create an *explosion*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1d, 10p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target moabs
+*psychic2*- the same as *psychic*, but has elite targeting permanently
+**Psychic Blast** ability: 40s cooldown, stuns up to 100 bloons for 6s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 13.33s
+‎ ‎ ‎ ‎ ‎ ‎ - 70r
+‎ ‎ ‎ ‎ ‎ ‎ - moabs are stunned for 1.5s
+‎ ‎ ‎ ‎ ‎ ‎ - triggers again after 2s and a third time after 4s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (the 4s wait time after the 3rd ability is in reference to using the original ability)
+**Psionic Scream** ability: 60s cooldown, targets 2000 bloons and has a 50% chance on each individual bloon to either attack them with *psychic* or send them back 50-300 units
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot affect moabs
+ 
+__Changes from Previous Level__
+all attacks can affect purples
+
+level 14
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
+*psychic*- 0.85s, normal, targets a bloon and fully destroys it
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is 0.025s per layer
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - takes twice as long on super ceramics
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can’t take longer than 15s to kill
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the 0.85s cooldown between attacks does not begin until the target bloon is fully destroyed
+‎ ‎ ‎ ‎ ‎ ‎ - can splash to affect up to 4 nearby bloons
+‎ ‎ ‎ ‎ ‎ ‎ - popped bloons create an *explosion*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 1d, 10p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target B.F.B.s, Z.O.M.G.s, D.D.T.s, or B.A.D.s
+*psychic2*- the same as *psychic*, but has elite targeting permanently
+**Psychic Blast** ability: 40s cooldown, stuns up to 100 bloons for 6s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 13.33s
+‎ ‎ ‎ ‎ ‎ ‎ - 70r
+‎ ‎ ‎ ‎ ‎ ‎ - moabs are stunned for 1.5s
+‎ ‎ ‎ ‎ ‎ ‎ - triggers again after 2s and a third time after 4s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (the 4s wait time after the 3rd ability is in reference to using the original ability)
+**Psionic Scream** ability: 60s cooldown, targets 2000 bloons and has a 50% chance on each individual bloon to either attack them with *psychic* or send them back 50-300 units
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot affect B.F.B.s, Z.O.M.G.s, D.D.T.s, or B.A.D.s
+ 
+__Changes from Previous Level__
+all attacks can affect M.O.A.B.s
+*psychic* kill time 0.1s -> 0.025s
+
+level 15
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
+*psychic*- 0.85s, normal, targets a bloon and fully destroys it
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is 0.025s per layer
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - takes twice as long on super ceramics
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can’t take longer than 15s to kill
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the 0.85s cooldown between attacks does not begin until the target bloon is fully destroyed
+‎ ‎ ‎ ‎ ‎ ‎ - can splash to affect up to 4 nearby bloons
+‎ ‎ ‎ ‎ ‎ ‎ - popped bloons create an *explosion*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 3d, 10p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target B.F.B.s, Z.O.M.G.s, D.D.T.s, or B.A.D.s
+*psychic2*- the same as *psychic*, but has elite targeting permanently
+**Psychic Blast** ability: 40s cooldown, stuns up to 100 bloons for 6s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 13.33s
+‎ ‎ ‎ ‎ ‎ ‎ - 70r
+‎ ‎ ‎ ‎ ‎ ‎ - moabs are stunned for 1.5s
+‎ ‎ ‎ ‎ ‎ ‎ - triggers again after 2s and a third time after 4s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (the 4s wait time after the 3rd ability is in reference to using the original ability)
+**Psionic Scream** ability: 60s cooldown, targets 2000 bloons and has a 50% chance on each individual bloon to either attack them with *psychic* or send them back 50-300 units
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot affect B.F.B.s, Z.O.M.G.s, D.D.T.s, or B.A.D.s
+ 
+__Changes from Previous Level__
+*psychic*'s *explosion* gets +2d
+
+level 16
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
+*psychic*- 0.85s, normal, targets a bloon and fully destroys it
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is 0.0167s per layer
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - takes twice as long on super ceramics
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can’t take longer than 15s to kill
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the 0.85s cooldown between attacks does not begin until the target bloon is fully destroyed
+‎ ‎ ‎ ‎ ‎ ‎ - can splash to affect up to 4 nearby bloons
+‎ ‎ ‎ ‎ ‎ ‎ - popped bloons create an *explosion*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 3d, 10p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target Z.O.M.G.s, D.D.T.s, or B.A.D.s
+*psychic2*- the same as *psychic*, but has elite targeting permanently
+**Psychic Blast** ability: 40s cooldown, stuns up to 100 bloons for 6s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 13.33s
+‎ ‎ ‎ ‎ ‎ ‎ - 70r
+‎ ‎ ‎ ‎ ‎ ‎ - moabs are stunned for 1.5s
+‎ ‎ ‎ ‎ ‎ ‎ - triggers again after 2s and a third time after 4s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (the 4s wait time after the 3rd ability is in reference to using the original ability)
+**Psionic Scream** ability: 60s cooldown, targets 2000 bloons and has a 50% chance on each individual bloon to either attack them with *psychic* or send them back 50-300 units
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot affect Z.O.M.G.s, D.D.T.s, or B.A.D.s
+ 
+__Changes from Previous Level__
+all attacks can affect B.F.B.s
+*psychic* kill time 0.025s -> 0.0167s
+
+level 17
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
+*psychic*- 0.85s, normal, targets a bloon and fully destroys it
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is 0.0167s per layer
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - takes twice as long on super ceramics
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can’t take longer than 15s to kill
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the 0.85s cooldown between attacks does not begin until the target bloon is fully destroyed
+‎ ‎ ‎ ‎ ‎ ‎ - can splash to affect up to 4 nearby bloons
+‎ ‎ ‎ ‎ ‎ ‎ - popped bloons create an *explosion*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 3d, 10p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target Z.O.M.G.s, D.D.T.s, or B.A.D.s
+*psychic2*- the same as *psychic*, but has elite targeting permanently
+*psychic3*- the same as *psychic*, but has first targeting permanently 
+**Psychic Blast** ability: 40s cooldown, stuns up to 100 bloons for 6s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 13.33s
+‎ ‎ ‎ ‎ ‎ ‎ - 70r
+‎ ‎ ‎ ‎ ‎ ‎ - moabs are stunned for 1.5s
+‎ ‎ ‎ ‎ ‎ ‎ - triggers again after 2s and a third time after 4s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (the 4s wait time after the 3rd ability is in reference to using the original ability)
+**Psionic Scream** ability: 60s cooldown, targets 2000 bloons and has a 50% chance on each individual bloon to either attack them with *psychic* or send them back 50-300 units
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot affect Z.O.M.G.s, D.D.T.s, or B.A.D.s
+ 
+__Changes from Previous Level__
+*psychic3* attack added
+
+level 18
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
+*psychic*- 0.85s, normal, targets a bloon and fully destroys it
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is 0.0167s per layer
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - takes twice as long on super ceramics
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can’t take longer than 15s to kill
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the 0.85s cooldown between attacks does not begin until the target bloon is fully destroyed
+‎ ‎ ‎ ‎ ‎ ‎ - can splash to affect up to 5 nearby bloons
+‎ ‎ ‎ ‎ ‎ ‎ - popped bloons create an *explosion*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 3d, 10p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target Z.O.M.G.s, D.D.T.s, or B.A.D.s
+*psychic2*- the same as *psychic*, but has elite targeting permanently
+*psychic3*- the same as *psychic*, but has first targeting permanently 
+**Psychic Blast** ability: 40s cooldown, stuns up to 100 bloons for 6s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 13.33s
+‎ ‎ ‎ ‎ ‎ ‎ - 70r
+‎ ‎ ‎ ‎ ‎ ‎ - moabs are stunned for 1.5s
+‎ ‎ ‎ ‎ ‎ ‎ - triggers again after 2s and a third time after 4s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (the 4s wait time after the 3rd ability is in reference to using the original ability)
+**Psionic Scream** ability: 60s cooldown, targets 2000 bloons and has a 50% chance on each individual bloon to either attack them with *psychic* or send them back 50-300 units
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot affect Z.O.M.G.s, D.D.T.s, or B.A.D.s
+ 
+__Changes from Previous Level__
+*psychic* can affect up to 5 bloons
+
+level 19
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
+*psychic*- 0.85s, normal, targets a bloon and fully destroys it
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is 0.0167s per layer
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - takes twice as long on super ceramics
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can’t take longer than 15s to kill
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the 1s cooldown between attacks does not begin until the target bloon is fully destroyed
+‎ ‎ ‎ ‎ ‎ ‎ - can splash to affect up to 5 nearby bloons
+‎ ‎ ‎ ‎ ‎ ‎ - popped bloons create an *explosion*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 10d, 10p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target Z.O.M.G.s, D.D.T.s, or B.A.D.s
+*psychic2*- the same as *psychic*, but has elite targeting permanently
+*psychic3*- the same as *psychic*, but has first targeting permanently 
+**Psychic Blast** ability: 40s cooldown, stuns up to 100 bloons for 6s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 13.33s
+‎ ‎ ‎ ‎ ‎ ‎ - 70r
+‎ ‎ ‎ ‎ ‎ ‎ - moabs are stunned for 1.5s
+‎ ‎ ‎ ‎ ‎ ‎ - triggers again after 2s and a third time after 4s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (the 4s wait time after the 3rd ability is in reference to using the original ability)
+**Psionic Scream** ability: 60s cooldown, targets 2000 bloons and has a 50% chance on each individual bloon to either attack them with *psychic* or send them back 50-300 units
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot affect Z.O.M.G.s, D.D.T.s, or B.A.D.s
+ 
+__Changes from Previous Level__
+*psychic*'s *explosion* gets +7d
+
+level 20
+∞r
+‎ ‎ ‎ ‎ ‎ ‎ - dummy 20r
+*psychic*- 0.85s, normal, targets a bloon and fully destroys it
+‎ ‎ ‎ ‎ ‎ ‎ - kill time is 0.0167s per layer
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - takes twice as long on super ceramics
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - can’t take longer than 15s to kill
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - the 1s cooldown between attacks does not begin until the target bloon is fully destroyed
+‎ ‎ ‎ ‎ ‎ ‎ - can splash to affect up to 5 nearby bloons
+‎ ‎ ‎ ‎ ‎ ‎ - popped bloons create an *explosion*
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - *explosion*- 10d, 10p, normal
+‎ ‎ ‎ ‎ ‎ ‎ - cannot target B.A.D.s
+*psychic2*- the same as *psychic*, but has elite targeting permanently
+*psychic3*- the same as *psychic*, but has first targeting permanently 
+**Psychic Blast** ability: 40s cooldown, stuns up to 100 bloons for 6s
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 13.33s
+‎ ‎ ‎ ‎ ‎ ‎ - 70r
+‎ ‎ ‎ ‎ ‎ ‎ - moabs are stunned for 1.5s
+‎ ‎ ‎ ‎ ‎ ‎ - triggers again after 2s and a third time after 4s
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ - (the 4s wait time after the 3rd ability is in reference to using the original ability)
+**Psionic Scream** ability: 60s cooldown, targets 2000 bloons and attacks them with *psychic*
+‎ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 20s
+‎ ‎ ‎ ‎ ‎ ‎ - cannot affect B.A.D.s
+ 
+__Changes from Previous Level__
+all attacks can affect Z.O.M.G.s and D.D.T.s
+**Psionic Scream** has a 100% chance to attack bloons with *psychic*
+
+all levels
+__**Cost**: $1,000 (med), $1,080 (hard)  |  **XP Curve**: 1.5x__
+LVL 1 - has *psychic* attack
+LVL 2 - *psychic* kill time 0.2s -> 0.15s
+LVL 3 - **Psychic Blast** ability added
+LVL 4 - *psychic* can splash to affect 1 nearby bloon
+LVL 5 - *psychic* gets 85%s (0.85s)
+LVL 6 - *psychic* can target ceramics  ♦️  Psychic Blast gets +50p (100) and triggers again after 2s
+LVL 7 - *psychic* can affect up to 3 bloons, energy -> plasma type
+LVL 8 - *psychic* creates an *explosion*
+LVL 9 - *psychic2* attack added
+LVL 10 - **Psionic Scream** ability added
+LVL 11 - *psychic* can affect up to 4 bloons, kill time 0.15s -> 0.1s
+LVL 12 - Psychic Blast triggers a third time
+LVL 13 - all attacks can affect purples
+LVL 14 - all attacks can affect M.O.A.B.s  ♦️  *psychic* kill time 0.1s -> 0.025s
+LVL 15 - *psychic*'s *explosion* gets +2d (3)
+LVL 16 - all attacks can affect B.F.B.s  ♦️  *psychic* kill time 0.025s -> 0.0167s
+LVL 17 - *psychic3* attack added
+LVL 18 - *psychic* can affect up to 5 bloons
+LVL 19 - *psychic*'s *explosion* gets +7d (10)
+LVL 20 - all attacks can affect Z.O.M.G.s and D.D.T.s  ♦️  Psionic Scream has a 100% chance to attack bloons with *psychic*
