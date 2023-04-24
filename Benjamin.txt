@@ -1,0 +1,419 @@
+level 1
+dummy 20r
+*income*- $100 income at the end of the round
+ 
+XP Curve: 1.5
+footprint radius: 7 (medium)
+ 
+**cost**
+1020 - easy
+1200 - medium
+1295 - hard
+1440 - impoppable
+
+level 2
+dummy 20r
+*income*- $150 income at the end of the round
+ 
+__Changes from Previous Level__
+*income* gives $+50
+
+level 3
+dummy 20r
+*income*- $150 income at the end of the round
+**Biohack** ability: 30s cooldown, 4 nearest towers get +1d for 6s, then cannot attack for 2s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+ ‎ ‎ ‎ ‎ ‎ - if a tower does not attack during the buff it does not get affected by the loss of attack time
+ 
+__Changes from Previous Level__
+**Biohack** ability added
+
+level 4
+dummy 20r
+*income*- $150 income at the end of the round
+*skimming*- earns $1 when a bloon enters the screen
+ ‎ ‎ ‎ ‎ ‎ - does not affect children of already spawned bloons
+**Biohack** ability: 30s cooldown, 4 nearest towers get +1d for 6s, then cannot attack for 2s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+ ‎ ‎ ‎ ‎ ‎ - if a tower does not attack during the buff it does not get affected by the loss of attack time
+ 
+__Changes from Previous Level__
+*skimming* attack added
+
+level 5
+dummy 20r
+*income*- $150 income at the end of the round
+*skimming*- earns $1 when a bloon enters the screen
+ ‎ ‎ ‎ ‎ ‎ - does not affect children of already spawned bloons
+**Biohack** ability: 30s cooldown, 4 nearest towers get +1d for 6s, then cannot attack for 2s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+ ‎ ‎ ‎ ‎ ‎ - if a tower does not attack during the buff it does not get affected by the loss of attack time
+*buff*- x3x farms get +5% income
+ ‎ ‎ ‎ ‎ ‎ - does not affect interest
+ 
+__Changes from Previous Level__
+adds income buff to banks
+
+level 6
+dummy 20r
+*income*- $150 income at the end of the round
+*skimming*- earns $1 when a bloon enters the screen
+ ‎ ‎ ‎ ‎ ‎ - does not affect children of already spawned bloons
+*healing*- heals 5 life at the end of every round
+ ‎ ‎ ‎ ‎ ‎ - cannot increase lives beyond starting value
+**Biohack** ability: 30s cooldown, 4 nearest towers get +1d for 6s, then cannot attack for 2s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+ ‎ ‎ ‎ ‎ ‎ - if a tower does not attack during the buff it does not get affected by the loss of attack time
+*buff*- x3x farms get +5% income
+ ‎ ‎ ‎ ‎ ‎ - does not affect interest
+ 
+__Changes from Previous Level__
+*healing* attack added
+
+level 7
+dummy 20r
+*income*- $150 income at the end of the round
+*skimming*- earns $1 when a bloon enters the screen
+ ‎ ‎ ‎ ‎ ‎ - does not affect children of already spawned bloons
+*healing*- heals 5 life at the end of every round
+ ‎ ‎ ‎ ‎ ‎ - cannot increase lives beyond starting value
+*trojan*- 5-7s, attacks a random bloon which then spawns no children
+ ‎ ‎ ‎ ‎ ‎ - grants $2 more than the amount of layers of children skipped
+ 	 ‎ ‎ ‎ ‎ ‎ - (if a black bloon is *trojaned*, it skips red, blue, green, yellow, and pink layers. this is 5 layers skipped so it generates 5 + 2 = $7)
+ ‎ ‎ ‎ ‎ ‎ - does not affect bloons below pink or above M.O.A.B.s
+**Biohack** ability: 30s cooldown, 4 nearest towers get +1d for 6s, then cannot attack for 2s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+ ‎ ‎ ‎ ‎ ‎ - if a tower does not attack during the buff it does not get affected by the loss of attack time
+*buff*- x3x farms get +5% income
+ ‎ ‎ ‎ ‎ ‎ - does not affect interest
+ 
+__Changes from Previous Level__
+*trojan* attack added
+
+level 8
+dummy 20r
+*income*- $250 income at the end of the round
+*skimming*- earns $1 when a bloon enters the screen
+ ‎ ‎ ‎ ‎ ‎ - does not affect children of already spawned bloons
+*healing*- heals 5 life at the end of every round
+ ‎ ‎ ‎ ‎ ‎ - cannot increase lives beyond starting value
+*trojan*- 5-7s, attacks a random bloon which then spawns no children
+ ‎ ‎ ‎ ‎ ‎ - grants $2 more than the amount of layers of children skipped
+ 	 ‎ ‎ ‎ ‎ ‎ - (if a black bloon is *trojaned*, it skips red, blue, green, yellow, and pink layers. this is 5 layers skipped so it generates 5 + 2 = $7)
+ ‎ ‎ ‎ ‎ ‎ - does not affect bloons below pink or above M.O.A.B.s
+**Biohack** ability: 30s cooldown, 4 nearest towers get +1d for 6s, then cannot attack for 2s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+ ‎ ‎ ‎ ‎ ‎ - if a tower does not attack during the buff it does not get affected by the loss of attack time
+*buff*- x3x farms get +5% income
+ ‎ ‎ ‎ ‎ ‎ - does not affect interest
+ 
+__Changes from Previous Level__
+*income* gives $+100
+
+level 9
+dummy 20r
+*income*- $250 income at the end of the round
+*skimming*- earns $1 when a bloon enters the screen
+ ‎ ‎ ‎ ‎ ‎ - does not affect children of already spawned bloons
+*healing*- heals 5 life at the end of every round
+ ‎ ‎ ‎ ‎ ‎ - cannot increase lives beyond starting value
+*trojan*- 5-7s, attacks a random bloon which then spawns no children
+ ‎ ‎ ‎ ‎ ‎ - grants $2 more than the amount of layers of children skipped
+ 	 ‎ ‎ ‎ ‎ ‎ - (if a black bloon is *trojaned*, it skips red, blue, green, yellow, and pink layers. this is 5 layers skipped so it generates 5 + 2 = $7)
+ ‎ ‎ ‎ ‎ ‎ - does not affect bloons below pink or above M.O.A.B.s
+**Biohack** ability: 30s cooldown, 4 nearest towers get +1d for 6s, then cannot attack for 2s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+ ‎ ‎ ‎ ‎ ‎ - if a tower does not attack during the buff it does not get affected by the loss of attack time
+*buff*- x3x farms get +12% income
+ ‎ ‎ ‎ ‎ ‎ - does not affect interest
+ 
+__Changes from Previous Level__
+*income* buff to banks increased 5% -> 12%
+
+level 10
+dummy 20r
+*income*- $250 income at the end of the round
+*skimming*- earns $1 when a bloon enters the screen
+ ‎ ‎ ‎ ‎ ‎ - does not affect children of already spawned bloons
+*healing*- heals 5 life at the end of every round
+ ‎ ‎ ‎ ‎ ‎ - cannot increase lives beyond starting value
+*trojan*- 5-7s, attacks a random bloon which then spawns no children
+ ‎ ‎ ‎ ‎ ‎ - grants $2 more than the amount of layers of children skipped
+ 	 ‎ ‎ ‎ ‎ ‎ - (if a black bloon is *trojaned*, it skips red, blue, green, yellow, and pink layers. this is 5 layers skipped so it generates 5 + 2 = $7)
+ ‎ ‎ ‎ ‎ ‎ - does not affect bloons below pink or above M.O.A.B.s
+**Biohack** ability: 30s cooldown, 4 nearest towers get +1d for 6s, then cannot attack for 2s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+ ‎ ‎ ‎ ‎ ‎ - if a tower does not attack during the buff it does not get affected by the loss of attack time
+**Syphon** ability: 65s cooldown, all new bloon spawns are downgraded by 1 layer and give double cash for 10s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 21.67s
+ ‎ ‎ ‎ ‎ ‎ - does not affect D.D.T.s and B.A.D.s
+ ‎ ‎ ‎ ‎ ‎ - double cash is applied after all other modifiers
+*buff*- x3x farms get +12% income
+ ‎ ‎ ‎ ‎ ‎ - does not affect interest
+ 
+__Changes from Previous Level__
+**Syphon** ability added
+
+level 11
+dummy 20r
+*income*- $300 income at the end of the round
+*skimming*- earns $1 when a bloon enters the screen
+ ‎ ‎ ‎ ‎ ‎ - does not affect children of already spawned bloons
+*healing*- heals 5 life at the end of every round
+ ‎ ‎ ‎ ‎ ‎ - cannot increase lives beyond starting value
+*trojan*- 5-7s, attacks a random bloon which then spawns no children
+ ‎ ‎ ‎ ‎ ‎ - grants $2 more than the amount of layers of children skipped
+ 	 ‎ ‎ ‎ ‎ ‎ - (if a black bloon is *trojaned*, it skips red, blue, green, yellow, and pink layers. this is 5 layers skipped so it generates 5 + 2 = $7)
+ ‎ ‎ ‎ ‎ ‎ - does not affect bloons below pink or above M.O.A.B.s
+**Biohack** ability: 30s cooldown, 4 nearest towers get +1d for 6s, then cannot attack for 2s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+ ‎ ‎ ‎ ‎ ‎ - if a tower does not attack during the buff it does not get affected by the loss of attack time
+**Syphon** ability: 65s cooldown, all new bloon spawns are downgraded by 1 layer and give double cash for 10s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 21.67s
+ ‎ ‎ ‎ ‎ ‎ - does not affect D.D.T.s and B.A.D.s
+ ‎ ‎ ‎ ‎ ‎ - double cash is applied after all other modifiers
+*buff*- x3x farms get +12% income
+ ‎ ‎ ‎ ‎ ‎ - does not affect interest
+ 
+__Changes from Previous Level__
+*income* gives $+50
+
+level 12
+dummy 20r
+*income*- $300 income at the end of the round
+*skimming*- earns $2 when a bloon enters the screen
+ ‎ ‎ ‎ ‎ ‎ - does not affect children of already spawned bloons
+*healing*- heals 5 life at the end of every round
+ ‎ ‎ ‎ ‎ ‎ - cannot increase lives beyond starting value
+*trojan*- 5-7s, attacks a random bloon which then spawns no children
+ ‎ ‎ ‎ ‎ ‎ - grants $2 more than the amount of layers of children skipped
+ 	 ‎ ‎ ‎ ‎ ‎ - (if a black bloon is *trojaned*, it skips red, blue, green, yellow, and pink layers. this is 5 layers skipped so it generates 5 + 2 = $7)
+ ‎ ‎ ‎ ‎ ‎ - does not affect bloons below pink or above M.O.A.B.s
+**Biohack** ability: 30s cooldown, 4 nearest towers get +1d for 6s, then cannot attack for 2s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+ ‎ ‎ ‎ ‎ ‎ - if a tower does not attack during the buff it does not get affected by the loss of attack time
+**Syphon** ability: 65s cooldown, all new bloon spawns are downgraded by 1 layer and give double cash for 10s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 21.67s
+ ‎ ‎ ‎ ‎ ‎ - does not affect D.D.T.s and B.A.D.s
+ ‎ ‎ ‎ ‎ ‎ - double cash is applied after all other modifiers
+*buff*- x3x farms get +12% income
+ ‎ ‎ ‎ ‎ ‎ - does not affect interest
+ 
+__Changes from Previous Level__
+*skimming* gives $+1
+
+level 13
+dummy 20r
+*income*- $300 income at the end of the round
+*skimming*- earns $2 when a bloon enters the screen
+ ‎ ‎ ‎ ‎ ‎ - does not affect children of already spawned bloons
+*healing*- heals 5 life at the end of every round
+ ‎ ‎ ‎ ‎ ‎ - cannot increase lives beyond starting value
+*trojan*- 5-7s, attacks a random bloon which then spawns no children
+ ‎ ‎ ‎ ‎ ‎ - grants $2 more than the amount of layers of children skipped
+ 	 ‎ ‎ ‎ ‎ ‎ - (if a black bloon is *trojaned*, it skips red, blue, green, yellow, and pink layers. this is 5 layers skipped so it generates 5 + 2 = $7)
+ ‎ ‎ ‎ ‎ ‎ - does not affect bloons below pink or above M.O.A.B.s
+**Biohack** ability: 30s cooldown, 6 nearest towers get +2d for 8s, then cannot attack for 2s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+ ‎ ‎ ‎ ‎ ‎ - if a tower does not attack during the buff it does not get affected by the loss of attack time
+**Syphon** ability: 65s cooldown, all new bloon spawns are downgraded by 1 layer and give double cash for 10s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 21.67s
+ ‎ ‎ ‎ ‎ ‎ - does not affect D.D.T.s and B.A.D.s
+ ‎ ‎ ‎ ‎ ‎ - double cash is applied after all other modifiers
+*buff*- x3x farms get +12% income
+ ‎ ‎ ‎ ‎ ‎ - does not affect interest
+ 
+__Changes from Previous Level__
+**Biohack** ability affects 4 -> 6 towers; gives +1d, 6s -> +2d, 8s
+
+level 14
+dummy 20r
+*income*- $300 income at the end of the round
+*skimming*- earns $2 when a bloon enters the screen
+ ‎ ‎ ‎ ‎ ‎ - does not affect children of already spawned bloons
+*healing*- heals 10 life at the end of every round
+ ‎ ‎ ‎ ‎ ‎ - cannot increase lives beyond 100 over the starting value
+*trojan*- 5-7s, attacks a random bloon which then spawns no children
+ ‎ ‎ ‎ ‎ ‎ - grants $2 more than the amount of layers of children skipped
+ 	 ‎ ‎ ‎ ‎ ‎ - (if a black bloon is *trojaned*, it skips red, blue, green, yellow, and pink layers. this is 5 layers skipped so it generates 5 + 2 = $7)
+ ‎ ‎ ‎ ‎ ‎ - does not affect bloons below pink or above M.O.A.B.s
+**Biohack** ability: 30s cooldown, 6 nearest towers get +2d for 8s, then cannot attack for 2s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+ ‎ ‎ ‎ ‎ ‎ - if a tower does not attack during the buff it does not get affected by the loss of attack time
+**Syphon** ability: 65s cooldown, all new bloon spawns are downgraded by 1 layer and give double cash for 10s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 21.67s
+ ‎ ‎ ‎ ‎ ‎ - does not affect D.D.T.s and B.A.D.s
+ ‎ ‎ ‎ ‎ ‎ - double cash is applied after all other modifiers
+*buff*- x3x farms get +12% income
+ ‎ ‎ ‎ ‎ ‎ - does not affect interest
+ 
+__Changes from Previous Level__
+*healing* gives +5 lives, can add 100 lives over the starting amount
+
+level 15
+dummy 20r
+*income*- $500 income at the end of the round
+*skimming*- earns $2 when a bloon enters the screen
+ ‎ ‎ ‎ ‎ ‎ - does not affect children of already spawned bloons
+*healing*- heals 10 life at the end of every round
+ ‎ ‎ ‎ ‎ ‎ - cannot increase lives beyond 100 over the starting value
+*trojan*- 5-7s, attacks a random bloon which then spawns no children
+ ‎ ‎ ‎ ‎ ‎ - grants $2 more than the amount of layers of children skipped
+ 	 ‎ ‎ ‎ ‎ ‎ - (if a black bloon is *trojaned*, it skips red, blue, green, yellow, and pink layers. this is 5 layers skipped so it generates 5 + 2 = $7)
+ ‎ ‎ ‎ ‎ ‎ - does not affect bloons below pink or above M.O.A.B.s
+**Biohack** ability: 30s cooldown, 6 nearest towers get +2d for 8s, then cannot attack for 2s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+ ‎ ‎ ‎ ‎ ‎ - if a tower does not attack during the buff it does not get affected by the loss of attack time
+**Syphon** ability: 65s cooldown, all new bloon spawns are downgraded by 1 layer and give double cash for 10s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 21.67s
+ ‎ ‎ ‎ ‎ ‎ - does not affect D.D.T.s and B.A.D.s
+ ‎ ‎ ‎ ‎ ‎ - double cash is applied after all other modifiers
+*buff*- x3x farms get +12% income
+ ‎ ‎ ‎ ‎ ‎ - does not affect interest
+ 
+__Changes from Previous Level__
+*income* gives $+200
+
+level 16
+dummy 20r
+*income*- $500 income at the end of the round
+*skimming*- earns $2 when a bloon enters the screen
+ ‎ ‎ ‎ ‎ ‎ - does not affect children of already spawned bloons
+*healing*- heals 10 life at the end of every round
+ ‎ ‎ ‎ ‎ ‎ - cannot increase lives beyond 100 over the starting value
+*trojan*- 3-4s, attacks a random bloon which then spawns no children
+ ‎ ‎ ‎ ‎ ‎ - grants $3 more than double the amount of layers of children skipped
+ 	 ‎ ‎ ‎ ‎ ‎ - (if a black bloon is *trojaned*, it skips red, blue, green, yellow, and pink layers. this is 5 layers skipped so it generates 3 + 5 * 2 = $13)
+ ‎ ‎ ‎ ‎ ‎ - does not affect bloons below pink or above M.O.A.B.s
+**Biohack** ability: 30s cooldown, 6 nearest towers get +2d for 8s, then cannot attack for 2s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+ ‎ ‎ ‎ ‎ ‎ - if a tower does not attack during the buff it does not get affected by the loss of attack time
+**Syphon** ability: 65s cooldown, all new bloon spawns are downgraded by 1 layer and give double cash for 10s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 21.67s
+ ‎ ‎ ‎ ‎ ‎ - does not affect D.D.T.s and B.A.D.s
+ ‎ ‎ ‎ ‎ ‎ - double cash is applied after all other modifiers
+*buff*- x3x farms get +12% income
+ ‎ ‎ ‎ ‎ ‎ - does not affect interest
+ 
+__Changes from Previous Level__
+*trojan* gets 5-7s -> 3-4s
+
+level 17
+dummy 20r
+*income*- $800 income at the end of the round
+*skimming*- earns $2 when a bloon enters the screen
+ ‎ ‎ ‎ ‎ ‎ - does not affect children of already spawned bloons
+*healing*- heals 10 life at the end of every round
+ ‎ ‎ ‎ ‎ ‎ - cannot increase lives beyond 100 over the starting value
+*trojan*- 3-4s, attacks a random bloon which then spawns no children
+ ‎ ‎ ‎ ‎ ‎ - grants $3 more than double the amount of layers of children skipped
+ 	 ‎ ‎ ‎ ‎ ‎ - (if a black bloon is *trojaned*, it skips red, blue, green, yellow, and pink layers. this is 5 layers skipped so it generates 3 + 5 * 2 = $13)
+ ‎ ‎ ‎ ‎ ‎ - does not affect bloons below pink or above M.O.A.B.s
+**Biohack** ability: 30s cooldown, 6 nearest towers get +2d for 8s, then cannot attack for 2s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+ ‎ ‎ ‎ ‎ ‎ - if a tower does not attack during the buff it does not get affected by the loss of attack time
+**Syphon** ability: 65s cooldown, all new bloon spawns are downgraded by 1 layer and give double cash for 10s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 21.67s
+ ‎ ‎ ‎ ‎ ‎ - does not affect D.D.T.s and B.A.D.s
+ ‎ ‎ ‎ ‎ ‎ - double cash is applied after all other modifiers
+*buff*- x3x farms get +12% income
+ ‎ ‎ ‎ ‎ ‎ - does not affect interest
+ 
+__Changes from Previous Level__
+*income* gives $+300
+
+level 18
+dummy 20r
+*income*- $800 income at the end of the round
+*skimming*- earns $2 when a bloon enters the screen
+ ‎ ‎ ‎ ‎ ‎ - does not affect children of already spawned bloons
+*healing*- heals 10 life at the end of every round
+ ‎ ‎ ‎ ‎ ‎ - cannot increase lives beyond 100 over the starting value
+*trojan*- 3-4s, attacks a random bloon which then spawns no children, camo
+ ‎ ‎ ‎ ‎ ‎ - grants $3 more than double the amount of layers of children skipped
+ 	 ‎ ‎ ‎ ‎ ‎ - (if a black bloon is *trojaned*, it skips red, blue, green, yellow, and pink layers. this is 5 layers skipped so it generates 3 + 5 * 2 = $13)
+ ‎ ‎ ‎ ‎ ‎ - does not affect bloons below pink, Z.O.M.G.s, and B.A.D.s
+**Biohack** ability: 30s cooldown, 6 nearest towers get +2d for 8s, then cannot attack for 2s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+ ‎ ‎ ‎ ‎ ‎ - if a tower does not attack during the buff it does not get affected by the loss of attack time
+**Syphon** ability: 65s cooldown, all new bloon spawns are downgraded by 1 layer and give double cash for 10s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 21.67s
+ ‎ ‎ ‎ ‎ ‎ - does not affect D.D.T.s and B.A.D.s
+ ‎ ‎ ‎ ‎ ‎ - double cash is applied after all other modifiers
+*buff*- x3x farms get +12% income
+ ‎ ‎ ‎ ‎ ‎ - does not affect interest
+ 
+__Changes from Previous Level__
+camo
+*trojan* can affect B.F.B.s and D.D.T.s
+
+level 19
+dummy 20r
+*income*- $800 income at the end of the round
+*skimming*- earns $2 when a bloon enters the screen
+ ‎ ‎ ‎ ‎ ‎ - does not affect children of already spawned bloons
+*healing*- heals 10 life at the end of every round
+ ‎ ‎ ‎ ‎ ‎ - cannot increase lives beyond 100 over the starting value
+*trojan*- 3-4s, attacks a random bloon which then spawns no children, camo
+ ‎ ‎ ‎ ‎ ‎ - grants $3 more than double the amount of layers of children skipped
+ 	 ‎ ‎ ‎ ‎ ‎ - (if a black bloon is *trojaned*, it skips red, blue, green, yellow, and pink layers. this is 5 layers skipped so it generates 3 + 5 * 2 = $13)
+ ‎ ‎ ‎ ‎ ‎ - does not affect bloons below pink, Z.O.M.G.s, and B.A.D.s
+**Biohack** ability: 30s cooldown, 6 nearest towers get +3d for 9s, then cannot attack for 2s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+ ‎ ‎ ‎ ‎ ‎ - if a tower does not attack during the buff it does not get affected by the loss of attack time
+**Syphon** ability: 65s cooldown, all new bloon spawns are downgraded by 1 layer and give double cash for 10s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 21.67s
+ ‎ ‎ ‎ ‎ ‎ - does not affect D.D.T.s and B.A.D.s
+ ‎ ‎ ‎ ‎ ‎ - double cash is applied after all other modifiers
+*buff*- x3x farms get +12% income
+ ‎ ‎ ‎ ‎ ‎ - does not affect interest
+ 
+__Changes from Previous Level__
+**Biohack** ability gives +2d, 8s -> +3d, 9s
+
+level 20
+dummy 20r
+*income*- $800 income at the end of the round
+*skimming*- earns $2 when a bloon enters the screen
+ ‎ ‎ ‎ ‎ ‎ - does not affect children of already spawned bloons
+*healing*- heals 10 life at the end of every round
+ ‎ ‎ ‎ ‎ ‎ - cannot increase lives beyond 100 over the starting value
+*trojan*- 3-4s, attacks a random bloon which then spawns no children, camo
+ ‎ ‎ ‎ ‎ ‎ - grants $3 more than double the amount of layers of children skipped
+ 	 ‎ ‎ ‎ ‎ ‎ - (if a black bloon is *trojaned*, it skips red, blue, green, yellow, and pink layers. this is 5 layers skipped so it generates 3 + 5 * 2 = $13)
+ ‎ ‎ ‎ ‎ ‎ - does not affect bloons below pink, Z.O.M.G.s, and B.A.D.s
+**Biohack** ability: 30s cooldown, 6 nearest towers get +3d for 9s, then cannot attack for 2s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 10s
+ ‎ ‎ ‎ ‎ ‎ - if a tower does not attack during the buff it does not get affected by the loss of attack time
+**Syphon** ability: 65s cooldown, all new bloon spawns are downgraded by 1 layer and give triple cash for 20s
+ ‎ ‎ ‎ ‎ ‎ - initial cooldown of 21.67s
+ ‎ ‎ ‎ ‎ ‎ - does not affect D.D.T.s and B.A.D.s
+ ‎ ‎ ‎ ‎ ‎ - triple cash is applied after all other modifiers
+*buff*- x3x farms get +12% income
+ ‎ ‎ ‎ ‎ ‎ - does not affect interest
+ 
+__Changes from Previous Level__
+**Syphon** ability lasts 10s -> 20s, cash modifier 2x -> 3x
+
+all levels
+__**Cost**: $1,200 (med), $1,295 (hard)  |  **XP Curve**: 1.5x__
+LVL 1 - gains $100 per round
+LVL 2 - gives $+50 per round ($150)
+LVL 3 - **Biohack** ability added
+LVL 4 - *skimming* added [+$1 per new bloon that spawns]
+LVL 5 - adds +5% income buff to banks
+LVL 6 - *healing* added [5 lives per round, doesn’t go above max]
+LVL 7 - *trojan* attack added
+LVL 8 - gives $+100 per round ($250)
+LVL 9 - income buff to banks increased 5% -> 12%
+LVL 10 - **Syphon** ability added
+LVL 11 - gives $+50 per round ($300)
+LVL 12 - *skimming* gives $+1 ($2 per bloon)
+LVL 13 - Biohack ability affects 4 -> 6 towers  ♦️  Biohack ability gives +1d, 6s -> +2d, 8s
+LVL 14 - *healing* gives +5 lives (10), can add 100 lives over the starting amount
+LVL 15 - gives $+200 per round ($500)
+LVL 16 - *trojan* gets 5-7s -> 3-4s
+LVL 17 - gives $+300 per round ($800)
+LVL 18 - gains camo  ♦️  *trojan* can affect B.F.B.s and D.D.T.s
+LVL 19 - Biohack ability gives +2d, 8s -> +3d, 9s
+LVL 20 - Syphon ability lasts 10s -> 20s, cash modifier 2x -> 3x
